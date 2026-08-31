@@ -1,0 +1,622 @@
+laptop_ID,Company,Product,TypeName,Inches,ScreenResolution,Cpu,Ram,Memory,Gpu,OpSys,Weight,Price
+1,Acer,Nitro V15 ANV15-52-57BB,Gaming,15.6,FHD 1920x1080,Intel Core i5-13420H,8GB,512GB SSD,NVIDIA GeForce RTX 5050,Windows 11,1.99kg,128000
+2,Asus,TUF Gaming A15 FA506NCG,Gaming,15.6,IPS Panel Full HD 1920x1080,AMD Ryzen 7-7445HS,4GB,512GB SSD,NVIDIA GeForce RTX 3050,Windows 11,2.30kg,118000
+3,HP,15-fc0146dx,Ultrabook,15.6,IPS Panel Touchscreen FHD 1920x1080,AMD Ryzen 5 7520U,8GB,512GB SSD,AMD Radeon Graphics,Windows 11,1.60kg,66990
+4,HP,OmniBook 5 Flip 14-fp0023dx,2 in 1 Convertible,14,IPS Panel 2K 1920x1200,Intel Core 7-150U,16GB,512GB SSD,Intel UHD Graphics,Windows 11,1.30kg,129900
+5,HP,Victus 15-FA2013DX,Gaming,15.6,FHD 1920x1080,Intel Core i5-13420H,6GB,512GB SSD,NVIDIA GeForce RTX 3050 Laptop GPU,Windows 11,2.30kg,97000
+6,HP,Victus 15-fa2082wm,Gaming,15.6,IPS Panel,Intel Core i5-13420H,6GB,512GB SSD,RTX 4050,Windows 11,2.29kg,115990
+7,Lenovo,IdeaPad Slim 3 15IRH10,Notebook,15.3,IPS Panel Touchscreen UHD 3840x2160,Intel Core i5-13420H,8GB,512GB SSD,Intel Integrated UHD Graphics,Windows 11,1.59kg,81999
+8,Lenovo,LOQ 15 15AHP10,Gaming,15.6,FHD 1920x1080,AMD Ryzen 5 220,8GB,512GB SSD,NVIDIA GeForce RTX 5050,Windows 11,2.4kg,145000
+9,Lenovo,LOQ 15IRX10,Gaming,15.6,FHD 1920x1080,Intel Core i5-13450HX,8GB,512GB SSD,NVIDIA GeForce RTX 5050,Windows 11,2.4kg,144999
+10,Apple,MacBook Neo,Notebook,13,Retina 2560x1600,Apple A18 Pro chip,8GB,256GB SSD,5‑core GPU,macOS,1.23kg,83499
+11,Apple,MacBook Air M5 13-Inch,Ultrabook,13,Retina 2560x1600,Apple M5 chip,16GB,512GB SSD,8 Core GPU,macOS,1.23kg,159999
+12,Apple,MacBook Air M5 15-Inch,Gaming,15,2880x1864,Apple M5 chip,16GB,512GB SSD,8 Core GPU,macOS,1.51kg,183999
+13,Apple,MacBook Pro M5 14-Inch 16/512GB 10-Core CPU 10-Core GPU,Ultrabook,14,Retina 2560x1600,Apple M5 chip,16GB,512GB SSD,10-Core GPU,macOS,1.55kg,229999
+14,Apple,MacBook Pro M5 Pro 14-Inch 24/1TB 15-Core CPU 16-Core GPU,Notebook,14,Retina 2560x1600,Apple M5 Pro Chip,24GB,1TB SSD,16-Core GPU,macOS,1.60kg,318999
+15,Apple,MacBook Air M4 13-Inch,Notebook,13,Retina 2560x1600,10 Core CPU 8 Core GPU / 10 Core CPU 10 Core GPU | 16-core Neural Engine,16GB,256GB SSD,8 Core GPU,macOS,1.24kg,136499
+16,Apple,MacBook Pro M4 Pro 14-Inch 24/512GB 12,Ultrabook,14,Retina 2560x1600,Apple M4 Pro chip,24GB,512GB SSD,16 Core GPU,macOS,1.60kg,249999
+17,Apple,MacBook Air M4 15-Inch,Notebook,15,Retina 2560x1600,10 Core CPU 10 Core GPU | 16-core Neural Engine,16GB,256GB SSD,10 Core GPU,macOS,1.51kg,155999
+18,HP,250R G10,Notebook,15.6,Full HD 1920x1080,Intel Core 3-100U,8GB,512GB SSD,Intel Graphics,Windows 11,1.59kg,63000
+19,Lenovo,IdeaPad Slim 3 15AMN8,Gaming,15.6,FHD 1920x1080,AMD Ryzen 5-7520U,8GB,512GB SSD,AMD Radeon Graphics,Windows 11,1.62kg,71990
+20,Apple,MacBook Pro M5 14-Inch 16/1TB 10-Core CPU 10-Core GPU,Notebook,14,Retina 2560x1600,OS: macOS Tahoe | Chipset: Apple M5 | CPU: 10 Core | GPU: 10 Core | NPU: 16 core Neural Engine,16GB,1TB SSD,10-Core GPU,macOS,1.55kg,238999
+21,Lenovo,LOQ 15IRX10 13th Gen,Gaming,15.6,FHD 1920x1080,Intel Core i7-13650HX,8GB,512GB SSD,NVIDIA GeForce RTX 5060,Windows 11,2.38kg,170000
+22,Asus,TUF A16 FA607NUQ,Gaming,16,FHD 1920x1080,AMD Ryzen 7 170 Processor,6GB,512GB SSD,NVIDIA GeForce RTX 4050,Windows 11,2.20kg,142900
+23,Lenovo,IdeaPad Slim 3 15ABR8,Notebook,15.6,1920x1080,AMD Ryzen 7 5825U,16GB,512GB SSD,AMD Radeon Graphics,Windows 11,1.62kg,82999
+24,HP,Victus 15-FA2104TX,Gaming,15.6,FHD 1920x1080,Intel Core i7-13620H,6GB,512GB SSD,NVIDIA GeForce RTX 4050,Windows 11,2.37kg,142999
+25,Asus,Vivobook 14 X1404VA,Notebook,14,FHD 1920x1080,Intel Core 5 120U,8GB,512GB SSD,Intel Graphics,Windows 11,1.40kg,70000
+26,HP,Omni Book 5 Flip 14-FP0023,2 in 1 Convertible,14,IPS Panel Touchscreen 2K 2560x1440,Intel Core 7-150U,16GB,512GB SSD,Intel Graphics,Windows 11,1.28kg,129000
+27,Lenovo,LOQ 15ARP10E,Gaming,15.6,IPS Panel Full HD 1920x1080,AMD Ryzen 7 170,6GB,512GB SSD,NVIDIA GeForce RTX 3050,Windows 11,1.8kg,128000
+28,HP,15-FD0054NR,Notebook,15.6,HD 1366x768,Intel Core i5-1334U,8GB,256GB SSD,Intel Iris Xe,Windows 11,1.59kg,72000
+29,HP,15-FD0153WM,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel Core 5-120U,8GB,512GB SSD,Intel Iris Xe,Windows 11,1.59kg,78000
+30,HP,15-FD0641NIA,Notebook,15.6,FHD 1920x1080,Intel Core 5-120U,8GB,512GB SSD,Intel Graphics,Windows 11,1.59kg,78000
+31,Asus,TUF Gaming F16 FX607V,Gaming,16,1920x1200,Intel Core 5-210H,6GB,512GB SSD,NVIDIA GeForce RTX 3050,Windows 11,2.25kg,116999
+32,HP,Victus 15,Gaming,15.6,FHD 1920x1080,Intel Core i7-13620H,8GB,1TB SSD,NVIDIA GeForce RTX 5050,Windows 11,2.29kg,155500
+33,Asus,TUF F16 FX607VJB-RL164,Gaming,16,FHD 1920x1080,Intel Core 5 210H,6GB,512GB SSD,NVIDIA GeForce RTX 3050,Windows 11,2.20kg,130000
+34,Asus,Vivobook M1502NAQ-BQ048,Notebook,15.6,FHD 1920x1080,AMD Ryzen™ 7 170,16GB,512GB SSD,AMD Radeon Graphics,Windows 11,1.70kg,90000
+35,Lenovo,LOQ 15IRX9,Gaming,15.6,FHD 1920x1080,Intel Core i5-13450HX,16GB,512GB SSD,RTX 4050,Windows 11,2.38kg,131000
+36,Lenovo,IdeaPad Slim 3 15ARP10,Ultrabook,15.3,Touchscreen,AMD Ryzen 7 170,16GB,512GB SSD,AMD Radeon Graphics,Windows 11,1.59kg,86500
+37,HP,15-FD0154WM Intel core Ultra-5 125H Intel Arc,Ultrabook,15.6,IPS Panel FHD 1920x1080,Intel Core Ultra 5 Processor 125H,8GB,512GB SSD,Intel Arc Graphics,Windows 11,1.59kg,80000
+38,Lenovo,LOQ 15IAX9E,Gaming,15.6,1920x1080,Intel Core i5-12450HX,6GB,512GB SSD,NVIDIA GeForce RTX 4050,Windows 11,1.77kg,111000
+39,HP,AI 15-fd2050wm,Ultrabook,15.6,Touchscreen FHD 1920x1080,Intel Core Ultra 5 225U,8GB,512GB SSD,Intel Graphics,Windows 11,1.59kg,73000
+40,Asus,TUF A16 FA607NUG-WH73,Gaming,16,1920x1200,AMD Ryzen 7-7445HS,6GB,512GB SSD,NVIDIA GeForce RTX 4050,Windows 11,2.20kg,139999
+41,HP,15-fd0215dx,Notebook,15.6,Touchscreen UHD 3840x2160,Intel Core 5-120U,16GB,512GB SSD,Intel UHD Graphics,Windows 11,1.6kg,78000
+42,HP,Notebook 255R G10,Notebook,15.6,FHD 1920x1080,AMD Ryzen 5-7535U,16GB,512GB SSD,AMD Radeon Graphics,Windows 11,1.59kg,70500
+43,HP,15-FC0074NIA,Notebook,15.6,FHD 1920x1080,AMD Ryzen 7-7730U,8GB,512GB SSD,AMD Radeon Graphics,Windows 11,1.59kg,72000
+44,HP,VICTUS 15-FB3093DX,Gaming,15.6,FHD 1920x1080,AMD Ryzen 7 7445HS,6GB,512GB SSD,NVIDIA GeForce RTX 4050,Windows 11,2.30kg,132500
+45,HP,250R G10,Notebook,15.6,FHD 1920x1080,Intel Core 5 120U,8GB,512GB SSD,Intel UHD Graphics,Windows 11,1.59kg,74900
+46,Lenovo,ThinkPad E14 Gen 7,Ultrabook,14,WUXGA 1920x1200,Intel Core Ultra 7 255H,16GB,512GB SSD,Intel Arc Graphics,Windows 11,1.36kg,162000
+47,HP,ProBook 460 G11,Ultrabook,16,IPS Panel WUXGA 1920x1200,Intel Core Ultra 5 125U,8GB,512GB SSD,Intel Graphics,Windows 11,1.39kg,99999
+48,HP,ProBook 440 G11,Ultrabook,14,IPS Panel FHD 1920x1080,Intel Core Ultra 7 155U,8GB,512GB SSD,Intel UHD Graphics,Windows 11,1.39kg,117900
+49,Lenovo,V14 G5 IRL 13th Gen,Notebook,14,Full HD 1920x1080,Intel Core i5-13420H,8GB,512GB SSD,Intel UHD Graphics,Windows 11,1.63kg,85990
+50,HP,15-fd0215dx,Notebook,15.6,FHD 1920x1080,Intel Core i5 1334U,16GB,512GB SSD,Intel Integrated Graphics,Windows 11,1.6kg,83000
+51,HP,15-fd0153dx,Notebook,15.6,Touchscreen FHD 1920x1080,Intel Core i3-1315U,8GB,256GB SSD,Intel UHD Graphics,Windows 11,1.60kg,55990
+52,HP,Victus 15-fa2317TX 13th Gen,Gaming,15.6,1920x1080,Intel Core i7-13620H,6GB,512GB SSD,NVIDIA GeForce RTX 4050,Windows 11,2.29kg,141990
+53,Lenovo,IdeaPad Slim 3 15IRH8 13th Gen,Notebook,15.6,Full HD 1920x1080,Intel Core i5-13420H,8GB,512GB SSD,Intel UHD Graphics,Windows 11,1.62kg,72000
+54,Lenovo,ThinkPad E14 Gen 6,Ultrabook,14,IPS Panel WUXGA 1920x1200,Intel Core Ultra 7 155H,16GB,512GB SSD,Intel Arc Graphics,Windows 11,1.36kg,141000
+55,HP,OmniBook Flip Next Gen AI 14-fm0013dx,2 in 1 Convertible,14,1920x1200,Intel Core Ultra 5 226V,16GB,512GB SSD,Intel Arc Graphics,Windows 11,1.38kg,117000
+56,Asus,TUF F16 FX607VU,Gaming,16,1920x1200,Intel Core 5,6GB,512GB SSD,RTX 4050,Windows 11,2.20kg,132500
+57,Lenovo,LOQ 15ARP9,Gaming,15.6,1920x1080,AMD Ryzen 5-7235HS,6GB,512GB SSD,NVIDIA GeForce RTX 4050,Windows 11,2.38kg,TBA
+58,HP,15-FC0120NIA,Notebook,15.6,Full HD 1920x1080,AMD Ryzen 7-7730U,8GB,512GB SSD,AMD Radeon Graphics,Windows 11,1.59kg,71500
+59,Dell,Pro 15 Essential PV15255,Notebook,15.6,IPS Panel Full HD 1920x1080,AMD Ryzen 5 7520U,8GB,512GB SSD,AMD Radeon Graphics,Windows 11,1.90kg,69990
+60,Acer,Nitro Lite NL 16-71G-578S Intel i5-13420H NVIDIA,Gaming,16,1920x1200,Intel Core i5-13420H,6GB,512GB SSD,NVIDIA RTX 3050,Windows 11,1.95kg,98000
+61,Lenovo,ThinkPad E14 Gen 6,Ultrabook,14,WUXGA 1920x1200,Intel Core Ultra 5-125H,16GB,512GB SSD,Intel Arc Graphics,Windows 11,1.36kg,121000
+62,Lenovo,LOQ 15ARP9,Gaming,15.6,1920x1080,AMD Ryzen 5 7235HS,6GB,512GB SSD,NVIDIA GeForce RTX 3050,Windows 11,2.38kg,TBA
+63,MSI,Cyborg 15 A13VE,Gaming,15.6,1920x1080,Intel Core i5-13420H,6GB,512GB SSD,NVIDIA GeForce RTX 4050,Windows 11,1.98kg,123900
+64,Asus,Vivobook 15 M1502YA-BQ325,Notebook,15.6,IPS Panel Full HD 1920x1080,AMD Ryzen 5 7430U,16GB,512GB SSD,AMD Radeon Graphics,Windows 11,1.70kg,72990
+65,Lenovo,LOQ 15AHP10,Gaming,15.6,FHD 1920x1080,AMD Ryzen 7 250,8GB,512GB SSD,NVIDIA GeForce RTX 5050,Windows 11,2.4kg,TBA
+66,Lenovo,LOQ 15 15IAX9E,Gaming,15.6,1920x1080,Intel Core i5-12450HX,6GB,512GB SSD,NVIDIA GeForce RTX 3050,Windows 11,2.38kg,TBA
+67,Lenovo,ThinkPad X1 Carbon Gen 13 Aura Edition,Ultrabook,14,2880x1800,Intel Core Ultra 7 258V,32GB,1TB SSD,Intel Arc Graphics,Windows 11,0.99kg,TBA
+68,Apple,MacBook Pro M5 14-Inch 24GB/1TB 10-Core CPU 10-Core GPU,Notebook,14,Retina 2560x1600,Apple M5 chip,24GB,1TB SSD,10-Core GPU,macOS,1.55kg,276999
+69,Apple,MacBook Pro M5 Max 36/2TB 18-Core CPU 32-Core GPU,Notebook,14,3024x1964,Apple M5 Max Chip,36GB,2TB SSD,32-Core GPU,macOS,1.62kg,TBA
+70,Apple,MacBook Pro M5 Max 48/2TB 18-Core CPU 40-Core GPU,Ultrabook,16,3456x2234,18-core CPU,48GB,2TB SSD,40-Core GPU,macOS,2.15kg,TBA
+71,Apple,MacBook Pro M5 Pro 16-Inch 24/1TB 18-Core CPU 20-Core GPU,Notebook,16,4K 3840x2160,Apple M5 pro chip,24GB,1TB SSD,20-Core GPU,macOS,2.14kg,353999
+72,Apple,MacBook Pro M4 Pro 14-Inch 24GB/1TB 14,Gaming,14,Retina 2560x1600,macOS | M4 Pro 14-Inch 24GB/1TB 14 Core CPU 20 Core GPU,24GB,1TB SSD,20 Core GPU,macOS,1.60kg,264999
+73,Apple,MacBook Pro M4 14-Inch 16GB/1TB 10,Notebook,14,Retina 2560x1600,OS: macOS Sequoia | Chipset: Apple M4 | CPU: 10 Core | GPU: 10 Core | NPU: 16-core Neural Engine,16GB,1TB SSD,10 Core GPU,macOS,1.55kg,216000
+74,Lenovo,LOQ 15ARP9,Gaming,15.6,1920x1080,AMD Ryzen 7 7435HS,6GB,512GB SSD,NVIDIA GeForce RTX 4050,Windows 11,2.38kg,TBA
+75,HP,Victus 15-fa2392TX,Gaming,15.6,IPS Panel FHD 1920x1080,Intel Core i7 13620H,6GB,512GB SSD,NVIDIA GeForce RTX 4050,Windows 11,2.29kg,TBA
+76,Samsung,"Galaxy Book3 Pro 360 i7 13th Gen 16"" WQXGA+ AMOLED Touch",2 in 1 Convertible,16,AMOLED Touchscreen WQXGA 2560x1600,Intel Core i7-1360P,16GB,1TB SSD,Intel Iris Xe Graphics,Windows 11,1.66kg,TBA
+77,HP,Victus 15-fa1091nia 13th Gen,Gaming,15.6,1920x1080,Intel Core i5 13420H,4GB,512GB SSD,NVIDIA GeForce RTX 2050,Windows 11,2.29kg,TBA
+78,Lenovo,ThinkPad X1 Carbon Gen 12,Ultrabook,14,WUXGA 1920x1200,Intel Core Ultra 7 155U,32GB,1TB SSD,Intel Arc Graphics,Windows 11,1.12kg,TBA
+79,MSI,Stealth A18 AI A3XWJG,Gaming,18,3840x2400,AMD Ryzen AI 9 HX 370,12GB,2TB SSD,NVIDIA GeForce RTX 5070,Windows 11,2.89kg,TBA
+80,Lenovo,IdeaPad Slim 3 15ARP10,Notebook,15.3,WUXGA 1920x1200,AMD Ryzen 7-7735HS,16GB,512GB SSD,AMD Radeon Graphics,Windows 11,1.59kg,TBA
+81,HP,15s-FQ5340TU,Notebook,15.6,FHD 1920x1080,Intel Core i3 1215U,8GB,512GB SSD,Intel UHD Graphics,Windows 11,1.7kg,TBA
+82,Asus,Vivobook 15 X1504Z,Ultrabook,15.6,OLED FHD 1920x1080,Intel Core i5-1235U,8GB,512GB SSD,Intel Iris Xe,Windows 11,1.70kg,70000
+83,HP,ProBook 460 G11,Ultrabook,16,1920x1200,Intel Core Ultra 7 155U,16GB,512GB SSD,Intel Graphics,Windows 11,1.39kg,125000
+84,HP,ProBook 440 G11,Ultrabook,14,1920x1200,Intel Core Ultra 5-125U,16GB,512GB SSD,Intel Arc Graphics,Windows 11,1.3kg,97000
+85,Lenovo,Yoga 7 16IML9 2-in-1,2 in 1 Convertible,16,Touchscreen FHD 1920x1080,Intel Core Ultra 5 125U,16GB,512GB SSD,Intel Iris Xe,Windows 11,1.99kg,TBA
+86,Lenovo,Legion Pro 5 16IAX10,Gaming,16,OLED 2560x1600,Intel Core Ultra 9-275HX,8GB,1TB SSD,NVIDIA GeForce RTX 5060,Windows 11,2.43kg,TBA
+87,Lenovo,Legion Pro 5 16IAX10,Gaming,16,OLED 2560x1600,Intel Core Ultra 7 255HX,8GB,1TB SSD,NVIDIA GeForce RTX 5060,Windows 11,2.43kg,TBA
+88,Lenovo,LOQ Essential 15ARP10,Gaming,15.6,FHD 1920x1080,AMD Ryzen 5 7535HS,6GB,512GB SSD,NVIDIA GeForce RTX 3050,Windows 11,1.77kg,129999
+89,HP,Victus 15-fa2093dx,Gaming,15.6,FHD 1920x1080,Intel Core i7-13620H,8GB,1TB SSD,NVIDIA GeForce RTX 5060,Windows 11,2.29kg,TBA
+90,Lenovo,Yoga 7 2-in-1 16AKP10,2 in 1 Convertible,16,IPS Panel Touchscreen WUXGA 1920x1200,AMD Ryzen AI 7 350,16GB,1TB SSD,AMD Radeon 860M,Windows 11,1.95kg,TBA
+91,Lenovo,Legion 5 15IRX10 14th Gen,Gaming,15.1,2560x1600,Intel Core i9-14900HX,8GB,1TB SSD,NVIDIA GeForce RTX 5070,Windows 11,1.9kg,TBA
+92,HP,Notebook 255 G10,Ultrabook,15.6,FHD 1920x1080,AMD Ryzen 5-7520U,8GB,512GB SSD,AMD Radeon Graphics,Windows 11,1.59kg,TBA
+93,Lenovo,IdeaPad 5 14IRH9 13th Gen,Notebook,14,OLED Touchscreen UHD 3840x2160,Intel Core i7-13620H,16GB,512GB SSD,Intel UHD Graphics,Windows 11,1.5kg,TBA
+94,Lenovo,LOQ 15IRX9 13th Gen,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel Core i7-13650HX,8GB,512GB SSD,NVIDIA RTX 4060,Windows 11,2.38kg,TBA
+95,Lenovo,Yoga 7 16IML9 2-in-1,2 in 1 Convertible,16,Touchscreen FHD 1920x1080,Intel Core Ultra 7 155U,16GB,1TB SSD,Intel Graphics,Windows 11,1.49kg,TBA
+96,Lenovo,IdeaPad Slim 3 14IRU8 13th Gen,Notebook,14,Full HD 1920x1080,Intel Core i3-1315U,8GB,512GB SSD,Intel UHD Graphics,Windows 11,1.37kg,TBA
+97,HP,Victus 15-fb2082wm,Gaming,15.6,1920x1080,AMD Ryzen 5 8645HS,6GB,512GB SSD,NVIDIA GeForce RTX 4050,Windows 11,2.29kg,120900
+98,Lenovo,Legion 5 15IRX10 14th Gen,Gaming,15.1,OLED WQXGA 2560x1600,Intel Core i7-14700HX,8GB,512GB SSD,NVIDIA GeForce RTX 5060,Windows 11,1.90kg,199000
+99,MSI,Thin 15 B12UCX,Gaming,15.6,Full HD 1920x1080,Intel Core i5 12450H,4GB,512GB SSD,NVIDIA RTX 2050,Windows 11,1.86kg,TBA
+100,Lenovo,IdeaPad 1 15AMN7,Ultrabook,15.6,Full HD 1920x1080,AMD Ryzen 3 7320U,8GB,512GB SSD,AMD Radeon 610M Graphics,Windows 11,1.58kg,TBA
+101,Asus,TUF F16-FX608JMR,Gaming,16,WUXGA 1920x1200,Intel Core i7-14650HX,8GB,1TB SSD,NVIDIA GeForce RTX 5060,Windows 11,2.20kg,TBA
+102,HP,VICTUS 16-S1023DX Amd,Gaming,16.1,FHD 1920x1080,AMD Ryzen 7 8845HS,8GB,512GB SSD,NVIDIA GeForce RTX 4070,Windows 11,2.34kg,TBA
+103,Lenovo,LOQ 15IRX9 12th Gen,Gaming,15.6,FHD 1920x1080,Intel Core i5-12450HX,6GB,512GB SSD,NVIDIA RTX 3050,Windows 11,2.4kg,TBA
+104,HP,Victus 15-FA1005nr,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel Core i5 13500H,6GB,1TB SSD,NVIDIA GeForce RTX 4050,Windows 11,2.29kg,TBA
+105,Lenovo,Legion Pro 5 16IAX10,Gaming,16,WQXGA 2560x1600,Intel Core Ultra 9-275HX,8GB,1TB SSD,NVIDIA GeForce RTX 5070,Windows 11,2.43kg,TBA
+106,Dell,Inspiron 15 3520 12th Gen,Notebook,15.6,Full HD 1920x1080,Intel Core i3-1215U,8GB,512GB SSD,Intel UHD Graphics,Windows 11,1.65kg,TBA
+107,Acer,Predator Helios Neo 16 AI PHN16-73-92B8,Gaming,16,OLED WQXGA 2560x1600,Intel Core Ultra 9 275HX,12GB,1TB SSD,NVIDIA GeForce RTX 5070,Windows 11,2.3kg,TBA
+108,Asus,TP3407SA-DS74T Vivobook Flip,2 in 1 Convertible,14,OLED Touchscreen,"Intel Core Ultra 7 258V,",16GB,1TB SSD,Intel Arc Graphics,Windows 11,1.57kg,149999
+109,Lenovo,IdeaPad 5 14IRH9 2-in-1,2 in 1 Convertible,14,Touchscreen,Intel Core i5 13420H,8GB,512GB SSD,Intel Iris Xe,Windows 11,1.6kg,TBA
+110,HP,VICTUS 15-FA0033dx,Gaming,15.6,FHD 1920x1080,Intel Core i5-12450H,4GB,512GB SSD,NVIDIA RTX 3050,Windows 11,2.29kg,TBA
+111,Asus,Vivobook 15 M1502YA-BQ161,Notebook,15.6,FHD 1920x1080,AMD Ryzen 7 7730U,16GB,512GB SSD,AMD Radeon Graphics,Windows 11,1.7kg,TBA
+112,Asus,ROG Zephyrus G14 GA403UM,Gaming,14,OLED,AMD Ryzen 9 270,16GB,1TB SSD,NVIDIA GeForce RTX 5060,Windows 11,1.50kg,279990
+113,Lenovo,LOQ 15IAX9E,Gaming,15.6,FHD 1920x1080,Intel Core i5-12450HX,6GB,512GB SSD,NVIDIA GeForce RTX 3050,Windows 11,1.77kg,122000
+114,Smart,Flairedge 13th Gen,Notebook,15.6,FHD 1920x1080,Intel Core i5 1335U,8GB,512GB SSD,Intel Iris Xe Graphics,Windows 11,1.30kg,64500
+115,Smart,Flairedge,Notebook,16,FHD 1920x1080,Intel Core i7 1255U,8GB,512GB SSD,Intel Iris Xe Graphics,Windows 11,1.30kg,68500
+116,Acer,Aspire 3 A325-53,Notebook,15.6,FHD 1920x1080,Intel Core i5 1334U,8GB,512GB SSD,Intel Iris Xe Graphics,Windows 11,1.79kg,73900
+117,Acer,Aspire 15 AS15-42,Notebook,15.6,IPS Panel FHD 1920x1080,AMD Ryzen 3 7330U,8GB,512GB SSD,AMD Radeon Graphics,Windows 11,1.79kg,63000
+118,Acer,Aspire 15 AS15-42,Notebook,15.6,FHD 1920x1080,AMD Ryzen 3 7330U,8GB,512GB SSD,AMD Radeon Graphics,No OS,1.79kg,63500
+119,Acer,Aspire Lite AL15-41,Notebook,15.6,FHD 1920x1080,AMD Ryzen 3 7330U,8GB,512GB SSD,AMD Radeon Graphics,Windows 11,1.79kg,63500
+120,Asus,Vivobook Go 15 E1504TA (12th Gen Standard),Notebook,15.6,FHD 1920x1080,Intel Core N150 12th Gen,8GB,512GB SSD,Intel Graphics,Windows 11,1.63kg,64000
+121,Asus,Vivobook Go 15 E1504TA (12th Gen Standard),Notebook,15.6,FHD 1920x1080,Intel Core N150 12th Gen,8GB,512GB SSD,Intel Graphics,Windows 11,1.63kg,64000
+122,HP,15-fd0807TU,Notebook,15.6,FHD 1920x1080,Intel Core i3 1315U,8GB,512GB SSD,Intel UHD Graphics,Windows 11,1.59kg,65990
+123,HP,15-fd0808TU,Notebook,15.6,FHD 1920x1080,Core i3 13th,8GB,512GB SSD,Intel UHD Graphics,Windows 11,1.59kg,65990
+124,HP,15-fc0658AU,Notebook,15.6,FHD 1920x1080,AMD Ryzen 3 7320U,8GB,512GB SSD,AMD Radeon 610M Graphics,Windows 11,1.59kg,66500
+125,HP,15-fc0625AU,Notebook,15.6,FHD 1920x1080,AMD Ryzen 3 7320U,8GB,512GB SSD,AMD Radeon 610M Graphics,Windows 11,1.59kg,66500
+126,HP,15-fc0626AU,Notebook,15.6,FHD 1920x1080,AMD Ryzen 3 7320U,8GB,512GB SSD,AMD Radeon 610M Graphics,Windows 11,1.59kg,66500
+127,Smart,Flairedge 12th Gen,Notebook,15.6,1920x1080,Intel Core i7 1255U,8GB,512GB SSD,Intel Iris Xe Graphics,Windows 11,1.30kg,67500
+128,Acer,Aspire 15 AS15-42,Notebook,15.6,FHD 1920x1080,AMD Ryzen 3 7330U,16GB,512GB SSD,AMD Radeon Graphics,Windows 11,1.79kg,68000
+129,Dell,Pro 15 Essential PV15250 Series 1,Notebook,15.6,FHD 1920x1080,Intel Core 3 100U,8GB,512GB SSD,Intel Graphics,Windows 11,1.90kg,70500
+130,HP,15-fd0176TU,Notebook,15.6,FHD 1920x1080,Intel Core i3 1315U,16GB,512GB SSD,Intel UHD Graphics,Windows 11,1.59kg,71000
+131,HP,15-fd0180TU,Notebook,15.6,FHD 1920x1080,Intel Core i3 1315U,16GB,512GB SSD,Intel UHD Graphics,Windows 11,1.59kg,71000
+132,Tecno,TECNO Megabook T14 Air,Notebook,14,FHD 1920x1080,Intel Core i5 1334U,16GB,512GB SSD,Intel Iris Xe Graphics,Windows 11,0.90kg,71900
+133,Lenovo,IdeaPad 1 15AMN7,Notebook,15.6,FHD 1920x1080,AMD Ryzen 3 7320U,16GB,512GB SSD,AMD Radeon 610M Graphics,Windows 11,1.62kg,72500
+134,Dell,Pro 14 Essential PV14250 Series 1,Notebook,14,FHD 1920x1080,Intel Core 3 100U,8GB,512GB SSD,Intel Graphics,Windows 11,1.90kg,72500
+135,Lenovo,IdeaPad Slim 3 15ABR8,Notebook,15.6,FHD 1920x1080,AMD Ryzen 5 5625U,8GB,512GB SSD,AMD Radeon Graphics,Windows 11,1.62kg,74000
+136,Acer,Aspire Lite AL15-53 13th Gen,Notebook,15.6,FHD 1920x1080,Intel Core i5 1334U,8GB,512GB SSD,Intel Iris Xe Graphics,Windows 11,1.79kg,74500
+137,Acer,Aspire Lite AL15-41,Notebook,15.6,FHD 1920x1080,AMD Ryzen 5 5625U,16GB,512GB SSD,AMD Radeon Graphics,Windows 11,1.79kg,74900
+138,Lenovo,IdeaPad Slim 3 14ARP10,Notebook,14,FHD 1920x1080,AMD Ryzen 5 7535HS,8GB,512GB SSD,AMD Radeon 660M Graphics,Windows 11,1.39kg,76900
+139,Lenovo,IdeaPad Slim 3 14ARP10,Notebook,14,FHD 1920x1080,AMD Ryzen 5 7535HS,8GB,512GB SSD,AMD Radeon 660M Graphics,No OS,1.39kg,76900
+140,Acer,Aspire 15 AS15-42,Notebook,15.6,FHD 1920x1080,AMD Ryzen 5 7430U,16GB,512GB SSD,AMD Radeon Graphics,Windows 11,1.79kg,76900
+141,Acer,Aspire Lite AL15-41,Notebook,15.6,FHD 1920x1080,AMD Ryzen 5 7430U,16GB,512GB SSD,AMD Radeon Graphics,Windows 11,1.79kg,77500
+142,Lenovo,IdeaPad 1 15AMN7,Notebook,15.6,FHD 1920x1080,AMD Ryzen 5 7520U,16GB,512GB SSD,AMD Radeon 610M Graphics,Windows 11,1.62kg,81000
+143,HP,15-fc0659AU,Notebook,15.6,FHD 1920x1080,AMD Ryzen 5 7520U,16GB,512GB SSD,AMD Radeon 610M Graphics,Windows 11,1.59kg,81500
+144,Asus,ExpertBook B5 B5302CEA,Notebook,13.3,LED FHD 1920x1080,Intel Core i5 1135G,8GB,512GB SSD,Intel Iris Xe Graphics,Windows 11,1.34kg,82500
+145,Acer,TravelLite TL14-52M-i5 13th Gen,Notebook,14,FHD 1920x1080,Intel Core i5 1335U,8GB,512GB SSD,Intel Iris Xe Graphics,Windows 11,1.38kg,82500
+146,Lenovo,IdeaPad Slim 3 15ARP10,Notebook,15.3,FHD 1920x1080,AMD Ryzen 5 7535HS,8GB,512GB SSD,AMD Radeon 660M Graphics,Windows 11,1.59kg,82500
+147,Lenovo,IdeaPad Slim 3 15ARP10,Notebook,15.3,IPS Panel FHD 1920x1080,AMD Ryzen 5 7535HS,8GB,512GB SSD,AMD Radeon 660M Graphics,Windows 11,1.59kg,82500
+148,HP,15-fd0892TU Series 1,Notebook,15.6,FHD 1920x1080,Intel Core 5 120U,8GB,512GB SSD,Intel Graphics,Windows 11,1.59kg,83000
+149,Lenovo,IdeaPad Slim 3 15ABR8,Notebook,15.6,FHD 1920x1080,AMD Ryzen 5 5625U,16GB,512GB SSD,AMD Radeon Graphics,Windows 11,1.62kg,84000
+150,Lenovo,IdeaPad Slim 3 15ABR8,Notebook,15.6,IPS Panel FHD 1920x1080,AMD Ryzen 5 5625U,16GB,512GB SSD,AMD Radeon Graphics,Windows 11,1.62kg,84000
+151,Acer,Aspire 15 AS15-42,Notebook,15.6,IPS Panel FHD 1920x1080,AMD Ryzen 7 7730U,16GB,512GB SSD,AMD Radeon Graphics,Windows 11,1.79kg,84500
+152,Lenovo,IdeaPad Slim 3 15IRH10,Notebook,15.3,FHD 1920x1080,Core i5 13th,16GB,512GB SSD,Intel UHD Graphics,Windows 11,1.59kg,85000
+153,Lenovo,IdeaPad Slim 3 14IRH10 13th Gen,Notebook,14,FHD 1920x1080,Intel Core i5 13420H,16GB,512GB SSD,Intel UHD Graphics,Windows 11,1.39kg,86500
+154,Lenovo,IdeaPad Slim 3 14IRH10,Notebook,14,FHD 1920x1080,Intel Core i5 13420H,16GB,512GB SSD,Intel UHD Graphics,Windows 11,1.39kg,87000
+155,MSI,Modern A15 AI F2HMG,Notebook,15.6,FHD 1920x1080,AMD Ryzen 5 220,16GB,512GB SSD,AMD Radeon 740M Graphics,Windows 11,1.60kg,87000
+156,MSI,"Modern A14 AI F2HMG 16GB DDR5 RAM, 512GB SSD, 14 Inch FHD",Notebook,14,FHD 1920x1080,Ryzen,16GB,512GB SSD,AMD Radeon 780M Graphics,No OS,1.50kg,87000
+157,Dell,Pro 15 Essential PV15250,Notebook,15.6,FHD 1920x1080,Intel Core i5 1334U,8GB,512GB SSD,Intel Iris Xe Graphics,Windows 11,1.90kg,87500
+158,Lenovo,IdeaPad Slim 3 14IRH10R,Notebook,14,FHD 1920x1080,Intel Core 5 210H,16GB,512GB SSD,Intel Graphics,Windows 11,1.39kg,88500
+159,Asus,ExpertBook P1 P1503CVA,Notebook,15.6,LED FHD 1920x1080,Intel Core 5 210H,8GB,512GB SSD,Intel Graphics,Windows 11,1.40kg,89500
+160,Lenovo,IdeaPad Slim 3 15ABR8,Notebook,15.6,FHD 1920x1080,AMD Ryzen 7 5825U,16GB,512GB SSD,AMD Radeon Graphics,Windows 11,1.62kg,90000
+161,Lenovo,IdeaPad Slim 3 15ABR8,Notebook,15.6,FHD 1920x1080,AMD Ryzen 7 5825U,16GB,512GB SSD,AMD Radeon Graphics,Windows 11,1.62kg,90000
+162,Lenovo,IdeaPad Slim 3 14ABR8,Notebook,14,FHD 1920x1080,AMD Ryzen 7 5825U,16GB,512GB SSD,AMD Radeon Graphics,Windows 11,1.39kg,90000
+163,HP,15-fd0880TU Series 1,Notebook,15.6,FHD 1920x1080,Intel Core 5 120U,16GB,512GB SSD,Intel Graphics,Windows 11,1.59kg,92000
+164,Lenovo,IdeaPad Slim 3 14IRH10,Notebook,14,FHD 1920x1080,Intel Core i5 13420H,16GB,1TB SSD,Intel UHD Graphics,Windows 11,1.39kg,92500
+165,Lenovo,IdeaPad Slim 3 15IRH10,Notebook,15.3,FHD 1920x1080,Intel Core i5 13420H,16GB,1TB SSD,Intel UHD Graphics,Windows 11,1.59kg,92500
+166,Asus,VivoBook Go 14 L1404FA,Notebook,14,FHD 1920x1080,AMD Ryzen 5 7520U,16GB,512GB SSD,AMD Radeon 610M Graphics,Windows 11,1.40kg,93000
+167,Asus,VivoBook Go 14 L1404FA,Notebook,14,FHD 1920x1080,AMD Ryzen 5 7520U,16GB,512GB SSD,AMD Radeon 610M Graphics,Windows 11,1.40kg,93000
+168,Asus,VivoBook 14 A1404VA Series 1,Notebook,14,FHD 1920x1080,Intel Core 5 120U,16GB,512GB SSD,Intel Graphics,Windows 11,1.40kg,93000
+169,Asus,VivoBook 14 A1404VA Series 1,Notebook,14,FHD 1920x1080,Intel Core 5 120U,16GB,512GB SSD,Intel Graphics,Windows 11,1.40kg,93000
+170,Asus,VivoBook Go 15 E1504FA,Notebook,15.6,1920x1080,AMD Ryzen 5 40,16GB,512GB SSD,AMD Radeon 610M Graphics,Windows 11,1.63kg,93000
+171,Asus,VivoBook Go 15 E1504FA,Notebook,15.6,1920x1080,AMD Ryzen 5 40,16GB,512GB SSD,AMD Radeon 610M Graphics,Windows 11,1.63kg,93000
+172,Asus,VivoBook Go 15 E1504FA,Notebook,15.6,1920x1080,AMD Ryzen 5 40,16GB,512GB SSD,AMD Radeon 610M Graphics,Windows 11,1.63kg,93000
+173,Asus,VivoBook Go 14 E1404FA,Notebook,14,FHD 1920x1080,AMD Ryzen 5 40,16GB,512GB SSD,AMD Radeon 610M Graphics,Windows 11,1.40kg,93000
+174,Asus,VivoBook Go 14 E1404FA,Notebook,14,FHD 1920x1080,AMD Ryzen 5 40,16GB,512GB SSD,AMD Radeon 610M Graphics,Windows 11,1.40kg,93000
+175,Asus,VivoBook Go 14 E1404FA,Notebook,14,FHD 1920x1080,AMD Ryzen 5 40,16GB,512GB SSD,AMD Radeon 610M Graphics,Windows 11,1.40kg,93000
+176,Asus,ExpertBook B3 B3405CCA Series 1,Ultrabook,14,FHD 1920x1080,Intel Core Ultra 5 125H,8GB,512GB SSD,Intel Arc graphics,Windows 11,1.40kg,93500
+177,Asus,ExpertBook B3 B3605CCA,Ultrabook,16,WUXGA 1920x1200,Intel Core Ultra 5 125H,8GB,512GB SSD,Intel Arc Graphics,Windows 11,1.40kg,94000
+178,Dell,Pro 14 Essential PV14250 Series 1,Notebook,14,FHD 1920x1080,Intel Core 5 120U,8GB,512GB SSD,Intel Graphics,Windows 11,1.90kg,95500
+179,Lenovo,IdeaPad Slim 3 14IRH10R Series 2,Notebook,14,FHD 1920x1080,Intel Core 5 210H,16GB,512GB SSD,Intel Graphics,Windows 11,1.39kg,96500
+180,Asus,VivoBook 14 F1407QA,Notebook,14,FHD 1920x1080,Snapdragon X X1-26-100,16GB,1TB SSD,Qualcomm Adreno Graphics,Windows 11,1.40kg,98000
+181,Asus,VivoBook 14 F1407QA,Notebook,14,FHD 1920x1080,Snapdragon X X1-26-100,16GB,1TB SSD,Qualcomm Adreno Graphics,Windows 11,1.40kg,98000
+182,Lenovo,IdeaPad Slim 3 15ARP10,Notebook,15.3,FHD 1920x1080,AMD Ryzen 7 7735HS,16GB,512GB SSD,AMD Radeon 680M Graphics,No OS,1.59kg,98000
+183,MSI,"Modern A15 AI F2HMG 16GB RAM DDR5, 512GB NVMe PCIe SSD,",Notebook,15.6,FHD 1920x1080,Ryzen,16GB,512GB SSD,AMD Radeon 780M Graphics,No OS,1.60kg,98000
+184,MSI,"Modern A14 AI F2HMG-14SK 16GB DDR5 RAM, 512GB SSD, 14 Inch",Notebook,14,FHD 1920x1080,Ryzen,16GB,512GB SSD,AMD Radeon 780M Graphics,No OS,1.50kg,98000
+185,Lenovo,V15 Gen 5 IRL,Notebook,15.6,FHD 1920x1080,Intel Core i5 13420H,16GB,512GB SSD,Intel UHD Graphics,Windows 11,1.62kg,98000
+186,Lenovo,LOQ Gaming 15IAX9E 12th Gen,Gaming,15.6,FHD 1920x1080,Intel Core i5 12450HX,12GB,512GB SSD,Nvidia RTX 2050 Graphics,Windows 11,2.38kg,99000
+187,Lenovo,IdeaPad Slim 3 14IRH10 13th Gen,Notebook,14,FHD 1920x1080,Intel Core i7 13620H,16GB,512GB SSD,Intel UHD Graphics,Windows 11,1.39kg,99500
+188,Lenovo,IdeaPad Slim 3 15IRH10R,Notebook,15.3,FHD 1920x1080,Intel Core 5 210H,24GB,512GB SSD,Intel Graphics,Windows 11,1.59kg,100500
+189,Acer,Aspire Go 14 AG14-71M Series 1,Ultrabook,14,FHD 1920x1080,Intel Core Ultra 5 125H,16GB,1TB SSD,Intel Arc Graphics,Windows 11,1.32kg,104000
+190,Acer,Aspire Go 14 AG14-71M,Ultrabook,14,FHD 1920x1080,Intel Core Ultra 5 125H,16GB,1TB SSD,Intel Arc Graphics,Windows 11,1.32kg,104000
+191,Lenovo,IdeaPad Slim 5 14IRH10 13th Gen,Notebook,14,FHD 1920x1080,Intel Core i5 13420H,16GB,512GB SSD,Intel UHD Graphics,Windows 11,1.39kg,104500
+192,MSI,Modern 15 F1MG Series 1,Notebook,15.6,1920x1080,Intel Core 7 150U,8GB,1TB SSD,Intel Graphics,Windows 11,1.60kg,105900
+193,Lenovo,IdeaPad Slim 5 14Q8X9,Notebook,14,FHD 1920x1080,Snapdragon X Plus X1P-42-100,16GB,512GB SSD,Qualcomm Adreno Graphics,Windows 11,1.39kg,108000
+194,MSI,Modern 14 H D2RMG Series 2,Notebook,14,FHD 1920x1080,Intel Core 7 240H,16GB,512GB SSD,Intel Graphics,Windows 11,1.50kg,109900
+195,Lenovo,IdeaPad Slim 5 14IMH10,Ultrabook,14,FHD 1920x1080,Intel Core Ultra 5 135H,16GB,512GB SSD,Intel Arc graphics,Windows 11,1.36kg,110000
+196,Lenovo,IdeaPad Slim 5 16IMH10,Ultrabook,16,FHD 1920x1080,Intel Core Ultra 5 135H,16GB,512GB SSD,Intel Arc graphics,Windows 11,1.85kg,110000
+197,Lenovo,LOQ Gaming 15IAX9 12th Gen,Gaming,15.6,FHD 1920x1080,Intel Core i5 12450HX,16GB,512GB SSD,Nvidia RTX 2050 Graphics,Windows 11,2.38kg,110500
+198,Lenovo,IdeaPad Slim 5 14IRH10,Notebook,14,OLED FHD 1920x1080,Intel Core i5 13420H,16GB,1TB SSD,Intel UHD Graphics,Windows 11,1.39kg,112500
+199,Lenovo,ThinkPad E14 Gen 7 Series 2,Ultrabook,14,FHD 1920x1080,Intel Core Ultra 5 225U,8GB,512GB SSD,Intel Graphics,Windows 11,1.36kg,113000
+200,Dell,Pro 14 PC14250 Series 2,Ultrabook,14,FHD 1920x1080,Intel Core Ultra 5 225U,8GB,512GB SSD,Intel Graphics,Windows 11,1.38kg,113500
+201,Lenovo,IdeaPad Slim 3 14AHP10,Notebook,14,FHD 1920x1080,AMD Ryzen 5 8640HS,16GB,512GB SSD,AMD Radeon 760M Graphics,Windows 11,1.39kg,113500
+202,Lenovo,IdeaPad Slim 5 13ARP10,Notebook,13.3,FHD 1920x1080,AMD Ryzen 7 7735HS,16GB,512GB SSD,AMD Radeon 680M Graphics,Windows 11,1.34kg,114500
+203,HP,ProBook 440 G11 Series 1,Ultrabook,14,FHD 1920x1080,Intel Core Ultra 5 125U,8GB,512GB SSD,Intel Graphics,Windows 11,1.39kg,115000
+204,Asus,VivoBook 14 F1407CA Series 2,Ultrabook,14,FHD 1920x1080,Intel Core Ultra 5 225H,16GB,512GB SSD,Intel Arc 130V Graphics,Windows 11,1.40kg,116000
+205,Asus,VivoBook 14 F1407CA Series 2,Ultrabook,14,FHD 1920x1080,Intel Core Ultra 5 225H,16GB,512GB SSD,Intel Arc 130V Graphics,Windows 11,1.40kg,116000
+206,Asus,VivoBook 16 F1607CA Series 2,Ultrabook,16,FHD 1920x1080,Intel Core Ultra 5 225H,16GB,512GB SSD,Intel Iris Xe Graphics,Windows 11,1.88kg,116000
+207,HP,ProBook 460 G11 Series 1,Ultrabook,16,FHD 1920x1080,Intel Core Ultra 5 125H,8GB,512GB SSD,Intel Arc Graphics,Windows 11,1.56kg,118000
+208,Acer,TravelLite TL24-53M Series 1,Notebook,14,FHD 1920x1080,Intel Core 7 150U,16GB,512GB SSD,Intel Graphics,Windows 11,1.38kg,118000
+209,Asus,Vivobook 14 M1407KA,Notebook,14,FHD 1920x1080,AMD Ryzen AI 5 330,16GB,512GB SSD,AMD Radeon 820M Graphics,Windows 11,1.40kg,118000
+210,Asus,Vivobook 14 M1407KA,Notebook,14,FHD 1920x1080,AMD Ryzen AI 5 330,16GB,512GB SSD,AMD Radeon 820M Graphics,Windows 11,1.40kg,118000
+211,Asus,ExpertBook P3 G1 P3406CCA Series 2,Ultrabook,14,FHD 1920x1080,Intel Core Ultra 5 225H,16GB,512GB SSD,Intel Arc 130V Graphics,Windows 11,1.40kg,118000
+212,Asus,ExpertBook B3 B3405CCA Series 2,Ultrabook,14,FHD 1920x1080,Intel Core Ultra 5 225H,16GB,512GB SSD,Intel Arc 130V Graphics,Windows 11,1.40kg,118000
+213,Asus,ExpertBook B1 B1403CVA,Notebook,14,FHD 1920x1080,Intel Core 7 150U,16GB,512GB SSD,Intel Graphics,No OS,1.40kg,118000
+214,Asus,VivoBook 14 F1407CA Series 2,Ultrabook,14,FHD 1920x1080,Intel Core Ultra 5 225H,16GB,1TB SSD,Intel Arc 130T Graphics,Windows 11,1.40kg,119000
+215,Asus,VivoBook 16 F1607CA Series 2,Ultrabook,16,FHD 1920x1080,Intel Core Ultra 5 225H,16GB,1TB SSD,Intel Arc 130T Graphics,Windows 11,1.88kg,119000
+216,Asus,VivoBook 16 F1607CA Series 2,Ultrabook,16,FHD 1920x1080,Intel Core Ultra 5 225H,16GB,1TB SSD,Intel Arc 130V Graphics,Windows 11,1.88kg,119000
+217,Asus,VivoBook 15 A1504VA Series 1,Notebook,15.6,FHD 1920x1080,Intel Core 7 150U,16GB,512GB SSD,Intel Graphics,Windows 11,1.63kg,119000
+218,Asus,VivoBook 15 A1504VA Series 1,Notebook,15.6,FHD 1920x1080,Intel Core 7 150U,16GB,512GB SSD,Intel Graphics,Windows 11,1.63kg,119000
+219,Asus,VivoBook 14 F1407CA Series 2,Ultrabook,14,FHD 1920x1080,Intel Core Ultra 5 225H,16GB,1TB SSD,Intel Arc 130T Graphics,Windows 11,1.40kg,119000
+220,HP,EliteBook 640 G11 Series 1,Ultrabook,14,FHD 1920x1080,Intel Core Ultra 5 125U,8GB,512GB SSD,Intel Graphics,Windows 11,1.39kg,121000
+221,Lenovo,IdeaPad Slim 5 14IRH10R Series 2,Notebook,14,FHD 1920x1080,Intel Core 7 240H,16GB,1TB SSD,Intel Graphics,Windows 11,1.39kg,121500
+222,Lenovo,LOQ Gaming 15IAX9E 12th Gen,Gaming,15.6,FHD 1920x1080,Intel Core i5 12450HX,16GB,512GB SSD,Nvidia RTX 3050 Graphics,Windows 11,2.38kg,122000
+223,Acer,ALG AL15G-53,Gaming,15.6,FHD 1920x1080,Core 5 210H,6GB,512GB SSD,Nvidia RTX 3050 Graphics,Windows 11,1.99kg,122500
+224,MSI,Thin 15 B13VE,Gaming,15.6,FHD 1920x1080,Intel Core i5 13420H,8GB,512GB SSD,Nvidia RTX 4050 Graphics,No OS,1.98kg,123900
+225,Asus,Vivobook S14 S3407VA,Notebook,14,FHD 1920x1080,Intel Core 5 210H,16GB,512GB SSD,Intel Graphics,Windows 11,1.40kg,125000
+226,MSI,Cyborg 15 Black Edition A13UC,Gaming,15.6,FHD 1920x1080,Intel Core i5 13420H,16GB,512GB SSD,Nvidia RTX 3050 Graphics,Windows 11,1.98kg,125000
+227,Lenovo,ThinkPad E14 Gen 7 Series 2,Ultrabook,14,FHD 1920x1080,Intel Core Ultra 5 225U,16GB,512GB SSD,Intel Graphics,Windows 11,1.36kg,126500
+228,Asus,ExpertBook P3 G1 P3406CCA Series 2,Ultrabook,14,FHD 1920x1080,Intel Core Ultra 7 255H,16GB,512GB SSD,Intel Arc 140T Graphics,Windows 11,1.40kg,129000
+229,HP,Victus Gaming 15-fb3180AX,Gaming,15.6,FHD 1920x1080,AMD Ryzen 7 7445HS,8GB,1TB SSD,Nvidia RTX 3050 Graphics,Windows 11,2.29kg,129500
+230,Asus,VivoBook S14 S3407VA,Notebook,14,FHD 1920x1080,Intel Core 5 210H,16GB,1TB SSD,Intel Graphics,Windows 11,1.40kg,130000
+231,Asus,VivoBook Pro 16X M7600QE,Notebook,16,OLED 4K 3840x2160,AMD Ryzen 7 5800H,16GB,512GB SSD,Nvidia RTX 3050 Ti Graphics,Windows 11,1.80kg,131000
+232,Lenovo,LOQ Gaming 15IAX9,Gaming,15.6,FHD 1920x1080,Intel Core i5 12450HX,16GB,512GB SSD,Nvidia RTX 3050 Graphics,Windows 11,2.38kg,131500
+233,Lenovo,IdeaPad Slim 5 14IRH10R,Notebook,14,FHD 1920x1080,Core 5,32GB,1TB SSD,Intel Graphics,Windows 11,1.39kg,132000
+234,Asus,TUF Gaming A15 FA506NCG,Gaming,15.6,FHD 1920x1080,AMD Ryzen 7 7445HS,8GB,512GB SSD,Nvidia RTX 3050 Graphics,Windows 11,2.30kg,134000
+235,Asus,TUF Gaming A15 FA506NCQ,Gaming,15.6,FHD 1920x1080,AMD Ryzen 7 170,16GB,512GB SSD,Nvidia RTX 3050 Graphics,Windows 11,2.30kg,135000
+236,Asus,VivoBook 16 M1607GA,Notebook,16,FHD 1920x1080,AMD Ryzen AI 7 445,16GB,512GB SSD,AMD Radeon 840M Graphics,Windows 11,1.80kg,135000
+237,Asus,VivoBook 16 M1607GA,Notebook,16,FHD 1920x1080,AMD Ryzen AI 7 445,16GB,512GB SSD,AMD Radeon 840M Graphics,Windows 11,1.80kg,135000
+238,Lenovo,LOQ Gaming 15IAX9E,Gaming,15.6,FHD 1920x1080,Intel Core i5 12450HX,16GB,512GB SSD,Nvidia RTX 4050 Graphics,Windows 11,2.38kg,135500
+239,Lenovo,ThinkPad L14 Gen 6,Ultrabook,14,IPS Panel FHD 1920x1080,Core Ultra 5 225U,16GB,512GB SSD,Intel Graphics,Windows 11,1.36kg,135500
+240,Lenovo,IdeaPad 5 2 in 1 14IAL10 Series 2,2 in 1 Convertible,14,Touchscreen FHD 1920x1080,Intel Core Ultra 5 225H,16GB,512GB SSD,Intel Arc Graphics,Windows 11,1.39kg,137000
+241,HP,ProBook 460 G11 Series 1,Ultrabook,16,FHD 1920x1080,Intel Core Ultra 7 155H,8GB,512GB SSD,Intel Arc Graphics,Windows 11,1.56kg,137500
+242,Lenovo,LOQ Gaming 15IAX9 12th Gen,Gaming,15.6,FHD 1920x1080,Intel Core i5 12450HX,16GB,512GB SSD,Nvidia RTX 4050 Graphics,Windows 11,2.38kg,140500
+243,Asus,ExpertBook P5 P5405CSA,Ultrabook,14,WQXGA 2560x1600,Intel Core Ultra 5 226V,16GB,1TB SSD,Intel Arc 130V Graphics,Windows 11,1.40kg,142000
+244,Lenovo,Yoga 7 2 in 1 14IML9 Series 1,2 in 1 Convertible,14,FHD 1920x1080,Intel Core Ultra 5 125H,16GB,512GB SSD,Intel Arc Graphics,Windows 11,1.39kg,143500
+245,Acer,Swift Go 14 SFG14-73 Series 1,Ultrabook,14,FHD 1920x1080,Intel Core Ultra 7 155H,16GB,1TB SSD,Intel Arc Graphics,Windows 11,1.32kg,146000
+246,Acer,Swift Go 14 SFG14-73T,Ultrabook,14,Touchscreen FHD 1920x1080,Intel Core Ultra 7 155H,16GB,1TB SSD,Intel Arc Graphics,Windows 11,1.32kg,148000
+247,Microsoft,(Certified Refurbished)Microsoft Surface Pro Copilot+ PC,2 in 1 Convertible,13,2880x1920,Snapdragon X Plus,16GB,256GB SSD,Qualcomm Adreno Graphics,Windows 11,0.88kg,148000
+248,Acer,Swift Go 14 SFG14-73 Series 1,Ultrabook,14,OLED WQXGA 2560x1600,Intel Core Ultra 7 155H,16GB,1TB SSD,Intel Arc Graphics,Windows 11,1.32kg,148000
+249,Lenovo,IdeaPad 5 2 in 1 14IAL10 Series 2,2 in 1 Convertible,14,FHD 1920x1080,Intel Core Ultra 7 255H,16GB,512GB SSD,Intel Arc 140T Graphics,Windows 11,1.39kg,152000
+250,Asus,VivoBook S14 S3407CA,Ultrabook,14,FHD 1920x1080,Intel Core Ultra 7 255H,16GB,1TB SSD,Intel Arc 140T Graphics,Windows 11,1.40kg,154000
+251,Gigabyte,Gaming A16 CVH,Gaming,16,FHD 1920x1080,Intel Core i7 13620H,16GB,1TB SSD,Nvidia RTX 5060 Graphics,Windows 11,2.05kg,154500
+252,Lenovo,Yoga 7 2 in 1 14IML9,2 in 1 Convertible,14,OLED Touchscreen,Intel Core Ultra 5 125H,16GB,1TB SSD,Intel Arc Graphics,Windows 11,1.39kg,160000
+253,Asus,VivoBook S 16 OLED M5606KA,Notebook,16,OLED,AMD Ryzen AI 5 340,16GB,512GB SSD,AMD Radeon 840M Graphics,Windows 11,1.80kg,160000
+254,Asus,VivoBook S 16 OLED M5606KA,Notebook,16,OLED,AMD Ryzen AI 5 340,16GB,512GB SSD,AMD Radeon 840M Graphics,Windows 11,1.80kg,160000
+255,Lenovo,Yoga 7 2 in 1 14IML9 Series 1,2 in 1 Convertible,14,OLED WQXGA 2560x1600,Intel Core Ultra 5 125H,16GB,512GB SSD,Intel Arc Graphics,Windows 11,1.39kg,160000
+256,Lenovo,Yoga Slim 7 14IMH9 Series 1,2 in 1 Convertible,14,FHD 1920x1080,Intel Core Ultra 5 125H,16GB,512GB SSD,Intel Arc graphics,Windows 11,1.39kg,160000
+257,Asus,ZenBook 14 OLED UX3405CA,Ultrabook,14,OLED Touchscreen FHD 1920x1080,Intel Core Ultra 5 225H,16GB,512GB SSD,Intel Arc 130T Graphics,Windows 11,1.28kg,160000
+258,Lenovo,Yoga 7 2-in-1 14AKP10,2 in 1 Convertible,14,Touchscreen FHD 1920x1080,AMD Ryzen AI 5 340,24GB,1TB SSD,AMD Radeon 840M Graphics,Windows 11,1.39kg,164000
+259,Lenovo,ThinkPad E14 Gen 7,Ultrabook,14,IPS Panel FHD 1920x1080,Intel Core Ultra 7 255H,16GB,512GB SSD,Intel Arc 140T Graphics,Windows 11,1.36kg,165000
+260,Lenovo,IdeaPad Slim 5 16AHP10,Notebook,16,OLED WQXGA 2560x1600,AMD Ryzen 7 8845HS,32GB,1TB SSD,AMD Radeon 780M Graphics,Windows 11,2.30kg,165000
+261,Lenovo,Yoga Slim 7 14ILL10 Series 2,2 in 1 Convertible,14,FHD 1920x1080,Intel Core Ultra 7 256V,16GB,512GB SSD,Intel Arc 140V Graphics,Windows 11,1.39kg,165000
+262,Asus,Zenbook 14 UM3406GA,Notebook,14,OLED FHD 1920x1080,AMD Ryzen AI 5 430,16GB,512GB SSD,AMD Radeon 840M Graphics,Windows 11,1.20kg,165000
+263,MSI,Cyborg 15 B2RWEKG Series 2,Gaming,15.6,FHD 1920x1080,Intel Core 5 210H,16GB,512GB SSD,Nvidia RTX 5050 Graphics,Windows 11,1.98kg,165900
+264,Microsoft,Surface Laptop 6 for Business Series 1,Ultrabook,13.5,Touchscreen,Intel Core Ultra 5 135H,16GB,256GB SSD,Intel Arc graphics,Windows 11,1.34kg,167000
+265,Asus,TUF Gaming A16 FA607NUQ,Gaming,16,FHD 1920x1080,AMD Ryzen 7 170,16GB,512GB SSD,Nvidia RTX 4050 Graphics,Windows 11,2.20kg,167000
+266,Lenovo,LOQ 15AHP10,Gaming,15.6,FHD 1920x1080,AMD Ryzen 5 220,16GB,1TB SSD,Nvidia RTX 5050 Graphics,Windows 11,2.38kg,168000
+267,MSI,Cyborg 15 B13WEKG,Gaming,15.6,FHD 1920x1080,Intel Core i7 13620H,16GB,512GB SSD,Nvidia RTX 5050 Graphics,Windows 11,1.98kg,170000
+268,Lenovo,LOQ 15IRX10,Gaming,15.6,FHD 1920x1080,Intel Core i7 13650HX,16GB,512GB SSD,Nvidia RTX 5050 Graphics,Windows 11,2.38kg,170500
+269,Lenovo,LOQ 15AHP10,Gaming,15.6,FHD 1920x1080,AMD Ryzen 7 250,16GB,1TB SSD,Nvidia RTX 5050 Graphics,Windows 11,2.38kg,172000
+270,Lenovo,IdeaPad Slim 5 15ARP10,Notebook,15.1,OLED WQXGA 2560x1600,AMD Ryzen 7 7735HS,32GB,1TB SSD,AMD Radeon 680M Graphics,Windows 11,1.90kg,173000
+271,Lenovo,Yoga Slim 7 14ILL10 Series 2,2 in 1 Convertible,14,FHD 1920x1080,Intel Core Ultra 5 228V,32GB,1TB SSD,Intel Arc 130V Graphics,Windows 11,1.39kg,173500
+272,Apple,MacBook Air (Early 2026),Notebook,13.6,Retina 2560x1600,Apple M5,16GB,512GB SSD,Apple 8-Core GPU,macOS,1.24kg,174000
+273,Lenovo,IdeaPad Slim 5 16AKP10,Notebook,16,OLED WQXGA 2560x1600,AMD Ryzen AI 7 350,32GB,1TB SSD,AMD Radeon 860M Graphics,Windows 11,2.30kg,175000
+274,Gigabyte,AERO X16 1VH,Gaming,16,FHD 1920x1080,AMD Ryzen AI 7 350,16GB,1TB SSD,Nvidia RTX 5060 Graphics,Windows 11,2.05kg,179000
+275,Asus,ZenBook A14 OLED UX3407RA,Notebook,14,OLED FHD 1920x1080,Snapdragon X Elite X1E-78-100,16GB,1TB SSD,Qualcomm Adreno Graphics,Windows 11,0.98kg,182000
+276,Microsoft,Surface Laptop 7 Copilot+ PC 7th Edition,Ultrabook,13.8,Touchscreen,Snapdragon X Plus,16GB,512GB SSD,Qualcomm Adreno Graphics,Windows 11,1.34kg,184000
+277,Microsoft,Surface Laptop 1st Edition Copilot+ PC,Ultrabook,13,Touchscreen,Snapdragon X Plus,16GB,512GB SSD,Qualcomm Adreno Graphics,Windows 11,1.34kg,184000
+278,MSI,Katana 15 HX B14WEK 14th Gen,Gaming,15.6,QHD 2560x1440,Intel Core i7 14650HX,16GB,512GB SSD,Nvidia RTX 5050 Graphics,Windows 11,1.98kg,185000
+279,Lenovo,Yoga Slim 7 14Q8X9,2 in 1 Convertible,14.5,2944x1840,Snapdragon X Elite X1E-78-100,16GB,512GB SSD,Qualcomm Adreno Graphics,Windows 11,1.41kg,187000
+280,Asus,TUF Gaming A14 FA401UH,Gaming,14,WQXGA 2560x1600,AMD Ryzen 7 260,16GB,512GB SSD,Nvidia RTX 5050 Graphics,Windows 11,1.50kg,192000
+281,Asus,V16 V3607VH Series 2,Gaming,16,FHD 1920x1080,Intel Core 7 240H,16GB,512GB SSD,Nvidia RTX 5050 Graphics,Windows 11,2.20kg,194000
+282,Asus,ZenBook 14 UX3405CA,Ultrabook,14,OLED FHD 1920x1080,Intel Core Ultra 7 255H,16GB,512GB SSD,Intel Arc 140T Graphics,Windows 11,1.28kg,195000
+283,Lenovo,Yoga Slim 7 14IMH9 Series 1,2 in 1 Convertible,14,FHD 1920x1080,Intel Core Ultra 9 185H,32GB,1TB SSD,Intel Arc Graphics,Windows 11,1.39kg,196000
+284,MSI,Katana 15 HX B14WFK,Gaming,15.6,QHD 2560x1440,Intel Core i7 14650HX,16GB,512GB SSD,Nvidia RTX 5060 Graphics,Windows 11,1.98kg,197900
+285,Microsoft,Surface Pro Copilot+ PC 11th Edition (Wi-Fi),2 in 1 Convertible,13,2880x1920,Snapdragon X Plus,16GB,512GB SSD,Qualcomm Adreno Graphics,Windows 11,0.88kg,199000
+286,Lenovo,Legion 5 Gaming 15IRX10 14th Gen,Gaming,15.1,WQXGA 2560x1600,Intel Core i7 14700HX,24GB,512GB SSD,Nvidia RTX 5050 Graphics,Windows 11,1.90kg,200000
+287,HP,OMEN Gaming 16-am0335TX,Gaming,16,WQXGA 2560x1600,Intel Core i7 14650HX,16GB,1TB SSD,Nvidia RTX 5050 Graphics,Windows 11,2.39kg,209000
+288,Asus,TUF Gaming A16 FA608UH,Gaming,16,FHD 1920x1080,AMD Ryzen 7 260,16GB,512GB SSD,Nvidia RTX 5050 Graphics,Windows 11,2.20kg,215000
+289,Apple,MacBook Air (Early 2026),Notebook,13.6,Retina 2560x1600,Apple M5,16GB,1TB SSD,Apple 10-Core GPU,macOS,1.24kg,217000
+290,MSI,Katana 15 HX B14WEK 14th Gen,Gaming,15.6,QHD 2560x1440,Intel Core i9 14900HX,16GB,512GB SSD,Nvidia RTX 5050 Graphics,Windows 11,1.98kg,220000
+291,Microsoft,Surface Pro Copilot+ PC 11th Edition (Wi-Fi),Ultrabook,13,2880x1920,Snapdragon X Elite,16GB,1TB SSD,Qualcomm Adreno Graphics,Windows 11,0.88kg,225000
+292,Microsoft,Surface Pro Copilot+ PC 11th Edition (Wi-Fi),2 in 1 Convertible,13,2880x1920,Snapdragon X Plus,16GB,1TB SSD,Qualcomm Adreno Graphics,Windows 11,0.88kg,225000
+293,HP,OmniBook Ultra Flip x360 14-fh0103TU AI Series 2,2 in 1 Convertible,14,Touchscreen,Intel Core Ultra 7 256V,16GB,1TB SSD,Intel Arc 140V Graphics,Windows 11,1.3kg,229000
+294,Microsoft,Surface Laptop 7 Copilot+ PC 7th Edition,Ultrabook,13.8,Touchscreen,Snapdragon X Elite,32GB,1TB SSD,Qualcomm Adreno Graphics,Windows 11,1.34kg,229000
+295,MSI,Katana 15 HX B14WGK,Gaming,15.6,QHD 2560x1440,Intel Core i7 14650HX,16GB,512GB SSD,Nvidia RTX 5070 Graphics,Windows 11,1.98kg,231900
+296,Asus,ProArt StudioBook 16 H5600QM,Notebook,16,OLED 4K 3840x2160,AMD Ryzen 7 5800H,16GB,1TB SSD,Nvidia RTX 3060 Graphics,Windows 11,1.80kg,232000
+297,Asus,TUF Gaming F16 FX608JHI,Gaming,16,FHD 1920x1080,Intel Core i7 14650HX,16GB,1TB SSD,Nvidia RTX 5050 Graphics,Windows 11,2.20kg,232000
+298,Lenovo,Legion Pro 5 16ADR10,Gaming,16,OLED WQXGA 2560x1600,AMD Ryzen 7 8745HX,32GB,1TB SSD,NVIDIA GeForce RTX 5060 Graphics,Windows 11,2.43kg,235000
+299,Lenovo,Legion Pro 5 16ADR10,Gaming,16,OLED WQXGA 2560x1600,AMD Ryzen 7 8745HX,24GB,1TB SSD,NVIDIA GeForce RTX 5060 Graphics,Windows 11,2.43kg,240000
+300,Microsoft,Surface Pro for Business Copilot+ PC 11th Edition (Wi-Fi),Ultrabook,13,OLED Touchscreen,Snapdragon X Elite,32GB,1TB SSD,Qualcomm Adreno Graphics,Windows 11,0.88kg,245000
+301,Lenovo,Legion 5 Gaming 15IRX10 14th Gen,Gaming,15.1,OLED WQXGA 2560x1600,Intel Core i7 14700HX,24GB,512GB SSD,Nvidia RTX 5070 Graphics,Windows 11,1.90kg,248500
+302,Asus,ZenBook Pro Duo 14 OLED UX8402ZE,Notebook,14.5,OLED Touchscreen,Intel Core i7 12700H,16GB,512GB SSD,Nvidia RTX 3050 Ti Graphics,Windows 11,2.05kg,250000
+303,Asus,ROG Strix G16 G614PH,Gaming,16,QHD 2560x1440,AMD Ryzen 9 8940HX,16GB,512GB SSD,Nvidia RTX 5050 Graphics,Windows 11,2.20kg,250000
+304,Asus,TUF Gaming F16 FX608JMI,Gaming,16,FHD 1920x1080,Intel Core i7 14650HX,16GB,1TB SSD,Nvidia RTX 5060 Graphics,Windows 11,2.20kg,257000
+305,Asus,ProArt StudioBook 16 H5600QM,Notebook,16,OLED 4K 3840x2160,AMD Ryzen 9 5900HX,32GB,1TB SSD,Nvidia RTX 3060 Graphics,Windows 11,1.80kg,258000
+306,Asus,TUF Gaming F16 FX608JMR 14th Gen,Gaming,16,FHD 1920x1080,Intel Core i7 14650HX,16GB,1TB SSD,Nvidia RTX 5060 Graphics,Windows 11,2.20kg,260000
+307,Asus,Zenbook S 16 UM5606GA,Notebook,16,OLED,AMD Ryzen AI 7 445,32GB,1TB SSD,AMD Radeon 840M Graphics,Windows 11,1.50kg,267000
+308,Apple,MacBook Pro (Late 2025),Notebook,14.2,Retina 2560x1600,Apple M5,16GB,1TB SSD,Apple 10-core GPU,macOS,1.55kg,268000
+309,Apple,MacBook Pro (Late 2025),Notebook,14.2,Retina 2560x1600,Apple M5,16GB,1TB SSD,Apple 10-Core GPU,macOS,1.55kg,268000
+310,Lenovo,Legion 5 15AKP10,Gaming,15.1,OLED WQXGA 2560x1600,AMD Ryzen AI 7 350,32GB,512GB SSD,NVIDIA Geforce RTX 5070 Graphics,Windows 11,1.90kg,270000
+311,Lenovo,Legion 5 15IAX10 Series 2,Gaming,15.1,WQXGA 2560x1600,Intel Core Ultra 7 255HX,32GB,512GB SSD,Nvidia RTX 5060 Graphics,Windows 11,1.90kg,274000
+312,Acer,Predator Helios Neo 16S AI PHN16S-71 Series 2,Gaming,16,OLED WQXGA 2560x1600,Intel Core Ultra 7 255HX,16GB,1TB SSD,Nvidia RTX 5050 Graphics,Windows 11,2.30kg,285000
+313,Lenovo,Yoga Book 9 13IMU9 Series 1,2 in 1 Convertible,13.3,OLED Touchscreen,Intel Core Ultra 7 155U,16GB,1TB SSD,Intel Graphics,Windows 11,1.34kg,287000
+314,Apple,MacBook Air (Early 2026),Notebook,15.3,Retina 2560x1600,Apple M5,24GB,1TB SSD,Apple 10-core GPU,macOS,1.51kg,288000
+315,Apple,MacBook Air (Early 2026),Notebook,15.3,Retina 2560x1600,Apple M5,24GB,1TB SSD,Apple 10-core GPU,macOS,1.51kg,288000
+316,Apple,MacBook Air (Early 2026),Notebook,15.3,Retina 2560x1600,Apple M5,24GB,1TB SSD,Apple 10-core GPU,macOS,1.51kg,288000
+317,Apple,MacBook Air (Early 2026),Notebook,15.3,Retina 2560x1600,Apple M5,24GB,1TB SSD,Apple 10-core GPU,macOS,1.51kg,288000
+318,Asus,TUF Gaming F16 FX608JPR,Gaming,16,FHD 1920x1080,Intel Core i7 14650HX,16GB,1TB SSD,Nvidia RTX 5070 Graphics,Windows 11,2.20kg,288000
+319,Lenovo,Yoga Pro 7i 14IAH10,2 in 1 Convertible,14.5,OLED,Intel Core Ultra 9 285H,32GB,1TB SSD,Intel Arc 140T Graphics,Windows 11,1.41kg,298000
+320,Lenovo,Yoga Book 9 14IAH10 Series 2,2 in 1 Convertible,14,OLED WQXGA 2560x1600,Intel Core Ultra 9 285H,32GB,1TB SSD,Intel Arc 140T Graphics,Windows 11,1.39kg,299000
+321,Asus,ROG Strix G16 G614PP,Gaming,16,QHD 2560x1440,AMD Ryzen 9 8940HX,16GB,1TB SSD,Nvidia RTX 5070 Graphics,Windows 11,2.20kg,310000
+322,Apple,MacBook Pro (Late 2025) 24GB RAM 1TB SSD 14.2 Inch Liquid,Notebook,14.2,Retina 2560x1600,Apple M5,24GB,1TB SSD,Apple 10-Core GPU,macOS,1.55kg,315000
+323,Apple,MacBook Pro (Late 2025),Notebook,14.2,Retina 2560x1600,Apple M5,24GB,1TB SSD,Apple 10-Core GPU,macOS,1.55kg,315000
+324,Lenovo,Yoga Slim 7i Ultra 14IPH11,2 in 1 Convertible,14,Touchscreen,Core Ultra 7,32GB,1TB SSD,Intel Graphics,Windows 11,1.39kg,315000
+325,Lenovo,Legion 5 Gaming 15IRX10 14th Gen,Gaming,15.1,OLED WQXGA 2560x1600,Intel Core i9 14900HX,32GB,1TB SSD,Nvidia RTX 5070 Graphics,Windows 11,1.90kg,316500
+326,Asus,ROG Strix G16 G615LM,Gaming,16,FHD 1920x1080,Intel Core Ultra 9 275HX,16GB,1TB SSD,Nvidia RTX 5060 Graphics,Windows 11,2.20kg,318000
+327,Asus,TUF Gaming F16 FX608JPR,Gaming,16,FHD 1920x1080,Intel Core i7 14650HX,32GB,1TB SSD,Nvidia RTX 5070 Graphics,Windows 11,2.20kg,320000
+328,Acer,Predator Helios Neo 16S AI PHN16S-71 Series 2,Gaming,16,OLED WQXGA 2560x1600,Intel Core Ultra 7 255HX,16GB,1TB SSD,Nvidia RTX 5070 Graphics,Windows 11,2.30kg,325000
+329,MSI,Stealth 16 AI A2HWFG,Gaming,16,QHD 2560x1440,Intel Core Ultra 9 285H,32GB,1TB SSD,Nvidia RTX 5060 Graphics,Windows 11,2.10kg,333000
+330,Lenovo,ThinkPad X1 Carbon Gen 13,Ultrabook,14,FHD 1920x1080,Intel Core Ultra 7 255H,32GB,1TB SSD,Intel Arc 140T Graphics,Windows 11,1.36kg,337000
+331,Acer,Predator Helios Neo 16S AI PHN16S-71 Series 2,Gaming,16,OLED WQXGA 2560x1600,Intel Core Ultra 9 275HX,16GB,1TB SSD,Nvidia RTX 5070 Graphics,Windows 11,2.30kg,340000
+332,Asus,ExpertBook B9 Ultra B9406CAA,Ultrabook,14,OLED Touchscreen WQXGA 2560x1600,Intel Core Ultra X7 358H,32GB,1TB SSD,Intel Arc B390 Graphics,Windows 11,1.40kg,340000
+333,Asus,ExpertBook B9 Ultra B9406CAA,Ultrabook,14,OLED Touchscreen WQXGA 2560x1600,Intel Core Ultra X7 358H,32GB,1TB SSD,Intel Arc B390 Graphics,Windows 11,1.40kg,340000
+334,Asus,ROG Strix G16 G614PP,Gaming,16,QHD 2560x1440,AMD Ryzen 9 8940HX,32GB,1TB SSD,Nvidia RTX 5070 Graphics,Windows 11,2.20kg,342000
+335,Apple,MacBook Pro (Early 2026),Notebook,14.2,Retina 2560x1600,Apple M5,24GB,1TB SSD,Apple 16-Core GPU,macOS,1.55kg,355000
+336,Apple,MacBook Pro (Early 2026),Notebook,14.2,Retina 2560x1600,Apple M5,24GB,1TB SSD,Apple 16-Core GPU,macOS,1.55kg,355000
+337,Acer,Predator Helios Neo 16S AI PHN16S-71,Gaming,16,WQXGA 2560x1600,Intel Core Ultra 9 275HX,32GB,1TB SSD,Nvidia RTX 5070 Graphics,Windows 11,2.30kg,360000
+338,MSI,Stealth 16 AI A2HWGG,Gaming,16,QHD 2560x1440,Intel Core Ultra 9 285H,32GB,1TB SSD,Nvidia RTX 5070 Graphics,Windows 11,2.10kg,360000
+339,Apple,MacBook Pro (Late 2025),Notebook,14.2,Retina 2560x1600,Apple M5,32GB,1TB SSD,Apple 10-Core GPU,macOS,1.55kg,365000
+340,Apple,MacBook Pro (Late 2025),Notebook,14.2,Retina 2560x1600,Apple M5,32GB,1TB SSD,Apple 10-Core GPU,macOS,1.55kg,365000
+341,Asus,ROG Strix G16 G615LP,Gaming,16,WQXGA 2560x1600,Intel Core Ultra 9 275HX,32GB,1TB SSD,Nvidia RTX 5070 Graphics,Windows 11,2.20kg,388000
+342,Apple,MacBook Pro (Early 2026),Notebook,14.2,Retina 2560x1600,Apple M5,24GB,2TB SSD,Apple 16-Core GPU,macOS,1.55kg,405000
+343,Apple,MacBook Pro (Early 2026),Notebook,14.2,Retina 2560x1600,Apple M5,24GB,2TB SSD,Apple 16-Core GPU,macOS,1.55kg,405000
+344,Apple,MacBook Pro (Early 2026),Notebook,14.2,Retina 2560x1600,Apple M5,24GB,2TB SSD,Apple 20-Core GPU,macOS,1.55kg,430000
+345,Apple,MacBook Pro (Early 2026),Notebook,14.2,Retina 2560x1600,Apple M5,24GB,2TB SSD,Apple 20-Core GPU,macOS,1.55kg,430000
+346,Asus,ROG Zephyrus G14 GA403WP,Gaming,14,OLED,AMD Ryzen AI 9 HX,32GB,2TB SSD,Nvidia RTX 5070 Graphics,Windows 11,1.50kg,435000
+347,Lenovo,ThinkPad X1 2-in-1 Gen 10,2 in 1 Convertible,14,Touchscreen FHD 1920x1080,Intel Core Ultra 7 265U,32GB,1TB SSD,Intel Graphics,Windows 11,1.39kg,435000
+348,MSI,Vector 16 HX AI A2XWIG Series 2,Gaming,16,QHD 2560x1440,Intel Core Ultra 9 275HX,16GB,1TB SSD,Nvidia RTX 5080 Graphics,Windows 11,2.10kg,449900
+349,Asus,Zenbook Duo UX8407AA,Ultrabook,14,OLED Touchscreen,Core Ultra X7 358H,32GB,1TB SSD,Intel Arc B390 Graphics,Windows 11,1.65kg,476000
+350,Apple,MacBook Pro Early 2026,Notebook,14.2,3024x1964,Apple M5,48GB,1TB SSD,Apple 20-Core GPU,macOS,1.55kg,485000
+351,Apple,MacBook Pro (Early 2026),Notebook,16.2,Retina 2560x1600,Apple M5,48GB,1TB SSD,Apple 20-Core GPU,macOS,2.14kg,490000
+352,Asus,asus rog zephyrus g16 gu605cr series 2 intel core ultra 9,Gaming,16,2560x1600,Intel Core Ultra 9 285H,32GB,1TB SSD,NVIDIA GeForce RTX 5070 Ti 12GB,Windows 11,1.95kg,TBA
+353,Apple,MacBook Pro (Early 2026),Notebook,16.2,Retina 2560x1600,Apple M5,48GB,1TB SSD,Apple 20-Core GPU,macOS,2.14kg,500000
+354,Apple,MacBook Pro (Early 2026),Notebook,14.2,Retina 2560x1600,Apple M5,36GB,2TB SSD,Apple 32-Core GPU,macOS,1.55kg,560000
+355,Apple,MacBook Pro (Early 2026),Notebook,14.2,Retina 2560x1600,Apple M5,36GB,2TB SSD,Apple 32-Core GPU,macOS,1.55kg,560000
+356,Apple,MacBook Pro (Early 2026),Notebook,16.2,Retina 2560x1600,Apple M5,36GB,2TB SSD,Apple 32-Core GPU,macOS,2.14kg,610000
+357,Apple,MacBook Pro (Early 2026),Notebook,16.2,Retina 2560x1600,Apple M5,36GB,2TB SSD,Apple 32-Core GPU,macOS,2.14kg,610000
+358,MSI,Raider 18 HX AI A2XWJG,Gaming,18,4K UHD,Intel Core Ultra 9 285HX,32GB,2TB SSD,Nvidia RTX 5090 Graphics,Windows 11,3.25kg,630000
+359,Asus,ROG Strix SCAR 18 G835LX Series 2,Gaming,18,WQXGA 2560x1600,Intel Core Ultra 9 275HX,64GB,1TB SSD,Nvidia RTX 5090 Graphics,Windows 11,3.48kg,649990
+360,Acer,Predator Helios 16 AI PH16-73 Series 2,Gaming,16,OLED WQXGA 2560x1600,Intel Core Ultra 9 275HX,32GB,2TB SSD,NVIDIA GeForce RTX 5090 Graphics,Windows 11,2.30kg,660000
+361,Apple,MacBook Pro (Early 2026),Notebook,16.2,Retina 2560x1600,Apple M5,48GB,2TB SSD,Apple 40-Core GPU,macOS,2.14kg,695000
+362,Walton,Prelude N41 Pro,Notebook,14,FHD 1920x1080,Intel Celeron N4120,8GB,256GB SSD,Intel UHD Graphics 600,Windows 10,1.29kg,27500
+363,Walton,Prelude N50 Pro,Notebook,14,FHD 1920x1080,Intel Pentium Silver N5030,8GB,256GB SSD,Intel UHD Graphics 605,Windows 10,1.35kg,29000
+364,Chuwi,CoreBook i3,Notebook,14,IPS Panel FHD 1920x1080,Intel Core i3-10100y,8GB,256GB SSD,Intel UHD Graphics 615,Windows 11,1.4kg,45000
+365,Walton,Passion BX510U,Notebook,15.6,Touchscreen FHD 1920x1080,Intel Core i5-10210U,8GB,512GB SSD,Intel UHD Graphics,Windows 10,1.59kg,44990
+366,Walton,TAMARIND EX3US1 Core,Notebook,14,LED FHD 1920x1080,Intel Core 3 100U,8GB,512GB SSD,Intel Graphics,Windows 11,1.32kg,61000
+367,Smart,Flairedge,Notebook,15.6,FHD 1920x1080,Intel Core i5-1335U,8GB,512GB SSD,Intel UHD Graphics,No OS,1.6kg,59500
+368,Asus,Vivobook Go 15 E1504TA,Notebook,15.6,IPS Panel FHD 1920x1080,Intel N150,8GB,512GB SSD,Intel UHD Graphics,Windows 11,1.63kg,61500
+369,Asus,Vivobook Go 15 E1504TA,Notebook,15.6,IPS Panel FHD 1920x1080,Intel N150,8GB,512GB SSD,Intel UHD Graphics,Windows 11,1.63kg,61500
+370,Acer,Aspire 15 AS15-42,Notebook,15.6,IPS Panel FHD 1920x1080,Ryzen 3 7330U,8GB,512GB SSD,AMD Radeon Graphics,No OS,1.79kg,63000
+371,HP,15-fd0807TU,Notebook,15.6,FHD 1920x1080,Intel Core i3 13th Gen,8GB,512GB SSD,Intel UHD Graphics,Windows 11,1.59kg,65990
+372,HP,15-fd0808TU,Notebook,15.6,FHD 1920x1080,Intel Core i3 13th Gen,8GB,512GB SSD,Intel UHD Graphics,Windows 11,1.59kg,65990
+373,HP,15-fc0626AU,Notebook,15.6,FHD 1920x1080,AMD Ryzen 3 7320U,8GB,512GB SSD,AMD Radeon Graphics,Windows 11,1.59kg,66500
+374,HP,15-fc0623AU,Notebook,15.6,FHD 1920x1080,AMD Ryzen 3 7320U,8GB,512GB SSD,AMD Radeon Graphics,Windows 11,1.59kg,66500
+375,HP,15-fc0625AU,Notebook,15.6,FHD 1920x1080,AMD Ryzen 3 7320U,8GB,512GB SSD,AMD Radeon Graphics,Windows 11,1.59kg,66500
+376,Tecno,MEGABOOK K15S,Notebook,15.6,IPS Panel FHD 1920x1080,"AMD Ryzen 5 7430U, up to 4.3GHz)",16GB,512GB SSD,AMD Radeon Graphics,Windows 11,1.56kg,70000
+377,Dell,Pro 15 Essential PV15250,Notebook,15.6,IPS Panel FHD 1920x1080,Intel Core 3 100U,8GB,512GB SSD,Intel UHD Graphics,No OS,1.90kg,70500
+378,HP,15-fd0176TU,Notebook,15.6,FHD 1920x1080,Intel Core i3 13th Gen,16GB,512GB SSD,Intel UHD Graphics,Windows 11,1.59kg,71000
+379,HP,15-fd0180TU,Notebook,15.6,FHD 1920x1080,Intel Core i3 13th Gen,16GB,512GB SSD,Intel UHD Graphics,Windows 11,1.59kg,71000
+380,Acer,Aspire Lite AL15-53,Notebook,15.6,IPS Panel FHD 1920x1080,Intel Core i5-1334U,8GB,512GB SSD,Intel UHD Graphics,No OS,1.59kg,71500
+381,Dell,Pro 14 Essential PV14250,Notebook,14,IPS Panel FHD 1920x1080,Intel Core 3 100U,8GB,512GB SSD,Intel UHD Graphics,No OS,1.90kg,72500
+382,Lenovo,IdeaPad 1 15AMN7,Notebook,15.6,IPS Panel FHD 1920x1080,AMD Ryzen 3 7320U,16GB,512GB SSD,AMD Radeon 610M,No OS,1.58kg,72500
+383,Lenovo,IdeaPad Slim 3 15ABR8,Notebook,15.6,FHD 1920x1080,AMD Ryzen 5 5625U,8GB,512GB SSD,AMD Radeon Graphics,Windows 11,1.62kg,74000
+384,Acer,Aspire 15 AS15-42-R5,Notebook,15.6,IPS Panel FHD 1920x1080,Ryzen 5 7430U,16GB,512GB SSD,AMD Radeon Graphics,No OS,1.79kg,76900
+385,Acer,Aspire Lite AL15-41,Notebook,15.6,LED FHD 1920x1080,Ryzen 5 5625U,16GB,512GB SSD,AMD Radeon Graphics,No OS,1.79kg,76900
+386,Acer,Aspire Lite AL15-41,Notebook,15.6,LED FHD 1920x1080,Ryzen 5 7430U,16GB,512GB SSD,AMD Radeon Graphics,No OS,1.79kg,77500
+387,Asus,ExpertBook P1 P1503CVA,Notebook,15.6,IPS Panel FHD 1920x1080,Intel Core 3 100U,8GB,512GB SSD,Intel UHD Graphics,Windows 11,1.66kg,78000
+388,HP,15-fd0812TU,Notebook,15.6,FHD 1920x1080,Intel Core i5 1334U,8GB,512GB SSD,Intel Iris X Graphics,Windows 11,1.59kg,78500
+389,HP,15-fd0811TU,Notebook,15.6,FHD 1920x1080,Intel Core i5 1334U,8GB,512GB SSD,Intel Graphics,Windows 11,1.59kg,78500
+390,Asus,Vivobook 15 X1504VA,Notebook,15.6,FHD 1920x1080,Intel Core 5 120U,8GB,512GB SSD,Intel Graphics,No OS,1.70kg,82000
+391,Asus,Vivobook 15 X1504VA,Notebook,15.6,FHD 1920x1080,Intel Core 5 120U,8GB,512GB SSD,Intel Graphics,No OS,1.70kg,82000
+392,Acer,TravelLite TL14-52M,Notebook,14,IPS Panel FHD 1920x1080,Intel Core i5-1335U,8GB,512GB SSD,Intel UHD Graphics,No OS,1.38kg,83000
+393,HP,15-fd0892TU,Notebook,15.6,FHD 1920x1080,Intel Core 5-120u,8GB,512GB SSD,Intel Iris X Graphics,No OS,1.59kg,83000
+394,Lenovo,IdeaPad Slim 3 15ABR8,Notebook,15.6,IPS Panel FHD 1920x1080,AMD Ryzen 5 5625U,16GB,512GB SSD,AMD Radeon Graphics,Windows 11,1.62kg,84000
+395,Lenovo,IdeaPad Slim 3 15ABR8,Notebook,15.6,IPS Panel FHD 1920x1080,AMD Ryzen 5 5625U,16GB,512GB SSD,AMD Radeon Graphics,Windows 11,1.62kg,84000
+396,Acer,Aspire 15 AS15-42-R7,Notebook,15.6,IPS Panel FHD 1920x1080,Ryzen 7 7730U,16GB,512GB SSD,AMD Radeon Graphics,No OS,1.79kg,84500
+397,Lenovo,IdeaPad 1 15AMN7,Notebook,15.6,IPS Panel FHD 1920x1080,AMD Ryzen 5 7520U,16GB,512GB SSD,AMD Radeon 610M,No OS,1.58kg,81000
+398,MSI,Modern A15 AI F2HMG,Notebook,15.6,IPS Panel FHD 1920x1080,AMD Ryzen 5 220,16GB,512GB SSD,AMD Radeon Graphics,No OS,1.6kg,87000
+399,Lenovo,IdeaPad Slim 3 14IRH10,Notebook,14,IPS Panel WUXGA 1920x1200,Intel Core i5-13420H,16GB,512GB SSD,Intel UHD Graphics,No OS,1.39kg,87500
+400,Asus,ExpertBook B1,Notebook,15.6,FHD 1920x1080,Intel Core 5-120U,8GB,512GB SSD,Intel Iris X,No OS,1.45kg,88000
+401,Lenovo,IdeaPad Slim 3 15IRH10R,Notebook,15.3,IPS Panel WUXGA 1920x1200,Intel Core 5 210H,16GB,512GB SSD,Intel UHD Graphics,No OS,1.63kg,88500
+402,Lenovo,IdeaPad Slim 3 14IRH10R,Notebook,14,IPS Panel WUXGA 1920x1200,Intel Core 5 210H,16GB,512GB SSD,Intel Graphics,No OS,1.39kg,88500
+403,Asus,ExpertBook P1 P1503CVA,Notebook,15.6,FHD 1920x1080,Intel Core 5 210H,8GB,512GB SSD,Intel UHD Graphics,Windows 11,1.66kg,89500
+404,HP,15-fd0880TU,Notebook,15.6,FHD 1920x1080,Intel Core 5-120u,16GB,512GB SSD,Intel Iris X Graphics,Windows 11,1.59kg,92000
+405,Lenovo,IdeaPad Slim 3 14IRH10,Notebook,14,IPS Panel WUXGA 1920x1200,Intel Core i5-13420H,16GB,1TB SSD,Intel UHD Graphics,No OS,1.39kg,92500
+406,Lenovo,IdeaPad Slim 3 15IRH10,Notebook,15.3,IPS Panel WUXGA 1920x1200,Intel Core i5-13420H,16GB,1TB SSD,Intel UHD Graphics,No OS,1.59kg,92500
+407,Asus,ExpertBook B1,Notebook,14,FHD 1920x1080,Intel Core i7-13620H,8GB,512GB SSD,Intel UHD Graphics,No OS,1.40kg,TBA
+408,Asus,Vivobook Go 15 L1504FA,Notebook,15.6,FHD 1920x1080,AMD Ryzen 5 7520U,16GB,512GB SSD,AMD Radeon,Windows 11,1.63kg,93000
+409,Asus,Vivobook Go 15 L1504FA,Notebook,15.6,FHD 1920x1080,AMD Ryzen 5 7520U,16GB,512GB SSD,AMD Radeon,Windows 11,1.63kg,93000
+410,Asus,Vivobook Go 15 L1504FA,Notebook,15.6,FHD 1920x1080,AMD Ryzen 5 7520U,16GB,512GB SSD,AMD Radeon,Windows 11,1.63kg,93000
+411,Asus,Vivobook Go 14 E1404GA,Notebook,14,LED FHD 1920x1080,AMD Ryzen 5 7520U,16GB,512GB SSD,AMD Radeon Graphics,Windows 11,1.38kg,93000
+412,Asus,Vivobook Go 14 L1404FA,Notebook,14,LED FHD 1920x1080,AMD Ryzen 5 7520U,16GB,512GB SSD,AMD Radeon Graphics,Windows 11,1.38kg,93000
+413,Asus,Vivobook 14 A1404VA,Notebook,14,IPS Panel FHD 1920x1080,Intel Core 5-120U,16GB,512GB SSD,Intel Graphics,Windows 11,1.40kg,93000
+414,Asus,Vivobook 14 A1404VA,Notebook,14,IPS Panel FHD 1920x1080,Intel Core 5-120U,16GB,512GB SSD,Intel Graphics,Windows 11,1.40kg,93000
+415,Asus,Vivobook 15 A1504VA,Notebook,15.6,FHD 1920x1080,Intel Core 5 120U,16GB,512GB SSD,Intel UHD Graphics,Windows 11,1.70kg,93000
+416,Asus,Vivobook 15 A1504VA,Notebook,15.6,IPS Panel FHD 1920x1080,Intel Core 5-120U,16GB,512GB SSD,Intel UHD Graphics,Windows 11,1.70kg,93000
+417,Asus,ExpertBook B1,Notebook,15.6,IPS Panel FHD 1920x1080,Intel Core 5-120U,16GB,512GB SSD,Intel Iris X,No OS,1.45kg,93500
+418,Lenovo,IdeaPad Slim 3 15ABR8,Notebook,15.6,FHD 1920x1080,AMD Ryzen 7 5825U,16GB,512GB SSD,AMD Radeon Graphics,Windows 11,1.62kg,90000
+419,Lenovo,IdeaPad Slim 3 14ABR8,Notebook,14,FHD 1920x1080,AMD Ryzen 7 5825U,16GB,512GB SSD,AMD Radeon Graphics,Windows 11,1.37kg,90000
+420,Lenovo,IdeaPad Slim 3 15ABR8,Notebook,15.6,IPS Panel FHD 1920x1080,AMD Ryzen 7 5825U,16GB,512GB SSD,AMD Radeon Graphics,Windows 11,1.62kg,90000
+421,Dell,Latitude 3450,Notebook,14,Touchscreen FHD 1920x1080,Intel Core i5-1335U,8GB,512GB SSD,Intel Iris Xe Graphics,No OS,1.54kg,95000
+422,Dell,Pro 14 Essential PV14250,Notebook,14,IPS Panel FHD 1920x1080,Intel Core 5 120U,8GB,512GB SSD,Intel UHD Graphics,No OS,1.90kg,95500
+423,Asus,Vivobook 15 X1504VA,Notebook,15.6,FHD 1920x1080,Intel Core i7-1355U,16GB,512GB SSD,Intel Iris X Graphics,No OS,1.70kg,96500
+424,Lenovo,IdeaPad Slim 3 14IRH10R,Notebook,14,IPS Panel WUXGA 1920x1200,Intel Core 5 210H,16GB,512GB SSD,Intel Graphics,Windows 11,1.39kg,96500
+425,Lenovo,IdeaPad Flex 5 14ABR8,2 in 1 Convertible,14,IPS Panel Touchscreen WUXGA 1920x1200,AMD Ryzen 5 5625U,16GB,512GB SSD,AMD Radeon Graphics,Windows 11,1.62kg,97000
+426,Apple,MacBook Neo,Notebook,13,IPS Panel Touchscreen Retina 2408x1506,Apple A18 Pro chip,8GB,256GB SSD,5‑core GPU,macOS,1.23kg,97500
+427,Asus,VivoBook 14 F1407QA,Notebook,14,IPS Panel WUXGA 1920x1200,Snapdragon X X1 26 100,16GB,1TB SSD,Qualcomm Adreno GPU,Windows 11,1.49kg,98000
+428,Asus,VivoBook 14 F1407QA,Notebook,14,IPS Panel WUXGA 1920x1200,Snapdragon X X1 26 100,16GB,1TB SSD,Qualcomm Adreno GPU,Windows 11,1.49kg,98000
+429,MSI,Modern A15 AI F2HMG,Notebook,15.6,IPS Panel FHD 1920x1080,AMD Ryzen 7 250,16GB,512GB SSD,AMD Radeon 780M Graphics,No OS,1.6kg,98000
+430,MSI,Modern A14 AI F2HMG,Notebook,14,IPS Panel FHD 1920x1080,AMD Ryzen 7 250,16GB,512GB SSD,AMD Radeon 780M Graphics,No OS,1.6kg,98000
+431,Asus,Vivobook 16X K3605ZF,Notebook,16,WUXGA 1920x1200,Intel Core i5-12500H,16GB,512GB SSD,NVIDIA RTX 2050,Windows 11,1.80kg,98500
+432,Lenovo,ThinkPad P14s Gen 2,Workstation,14,LED FHD 1920x1080,Intel Core i5-1135G7,8GB,512GB SSD,Intel UHD Graphics,No OS,1.39kg,99000
+433,Lenovo,LOQ 15IAX9E,Gaming,15.6,FHD 1920x1080,Intel Core i5-12450HX,4GB,512GB SSD,NVIDIA GeForce RTX 2050,Windows 11,1.77kg,99000
+434,Dell,Inspiron 3530,Notebook,15.6,LED FHD 1920x1080,Intel Core i7-1355U,16GB,512GB SSD,Intel Iris Xe,No OS,1.66kg,99000
+435,Lenovo,IdeaPad Slim 3 14IRH10,Notebook,14,IPS Panel WUXGA 1920x1200,Intel Core i7-13620H,16GB,512GB SSD,Intel UHD Graphics,No OS,1.39kg,99500
+436,Lenovo,IdeaPad Slim 3 15IRH10,Notebook,15.3,IPS Panel WUXGA 1920x1200,Intel Core i7-13620H,16GB,512GB SSD,Intel UHD Graphics,No OS,1.59kg,99500
+437,Lenovo,IdeaPad Slim 3 15IRH10R,Notebook,15.3,IPS Panel WUXGA 1920x1200,Intel Core 5 210H,24GB,512GB SSD,Intel UHD Graphics,Windows 11,1.59kg,100500
+438,MSI,Cyborg 15 A13UC,Gaming,15.6,FHD 1920x1080,Intel Core i5-13420H,4GB,512GB SSD,NVIDIA GeForce RTX 3050,No OS,1.98kg,101900
+439,Asus,Vivobook 16X K3605VC,Notebook,16,WUXGA 1920x1200,Intel Core i5-13420H,4GB,512GB SSD,NVIDIA RTX 3050,Windows 11,1.80kg,103000
+440,Lenovo,IdeaPad Slim 5 14IRH10,Notebook,14,OLED WUXGA 1920x1200,Intel Core i5-13420H,16GB,512GB SSD,Intel UHD Graphics,Windows 11,1.39kg,104500
+441,Tecno,MEGABOOK T15RA,Ultrabook,15.6,FHD 1920x1080,Intel Core i9-13900HK,32GB,1TB SSD,Intel Iris Xe Graphics,No OS,1.56kg,105000
+442,Dell,15 DC15250,Notebook,15.6,IPS Panel FHD 1920x1080,Intel Core i7-1355U,16GB,512GB SSD,Intel UHD Graphics,No OS,1.90kg,105500
+443,MSI,Modern 15 F1MG,Notebook,15.6,1920x1080,Intel Core 7 150U,8GB,1TB SSD,Intel Graphics,Windows 11,1.7kg,105900
+444,HP,Victus Gaming 15-fb3166AX,Gaming,15.6,FHD 1920x1080,AMD Ryzen 5 8645HS,4GB,512GB SSD,NVIDIA GeForce RTX 2050,Windows 11,2.29kg,106500
+445,HP,Victus Gaming 15-fb3167AX,Gaming,15.6,FHD 1920x1080,AMD Ryzen 5 8645HS,4GB,512GB SSD,NVIDIA GeForce RTX 2050,Windows 11,2.29kg,106500
+446,Lenovo,ThinkPad E14 Gen 6,Ultrabook,14,IPS Panel WUXGA 1920x1200,Intel Core Ultra 5 125U,8GB,512GB SSD,Intel UHD Graphics,No OS,1.41kg,107000
+447,Lenovo,IdeaPad Slim 5 14Q8X9,Notebook,14,OLED WUXGA 1920x1200,Snapdragon X Plus X1P-42-100 with NPU,16GB,512GB SSD,Qualcomm Adreno GPU,Windows 11,1.48kg,108000
+448,Lenovo,IdeaPad Slim 5 14IMH10,Ultrabook,14,IPS Panel WUXGA 1920x1200,Intel Core Ultra 5 135H,16GB,512GB SSD,Intel Arc Graphics,Windows 11,1.47kg,109000
+449,Asus,ExpertBook B1 B1403CVA,Notebook,14,FHD 1920x1080,Intel Core 7 240H,16GB,512GB SSD,Intel UHD Graphics,No OS,1.44kg,110000
+450,Asus,ExpertBook B1 B1503CVA,Notebook,15.6,FHD 1920x1080,Intel Core 7 240H,16GB,512GB SSD,Intel UHD Graphics,No OS,1.44kg,110000
+451,Lenovo,IdeaPad Slim 5i 16IMH10,Ultrabook,16,IPS Panel WUXGA 1920x1200,Intel Core Ultra 5 135H,16GB,512GB SSD,Intel Arc Graphics,Windows 11,1.85kg,110000
+452,Lenovo,LOQ 15IAX9,Gaming,15.6,FHD 1920x1080,Intel Core i5-12450HX,4GB,512GB SSD,NVIDIA GeForce RTX 2050,Windows 11,2.38kg,110500
+453,HP,Victus 15-fa1393TX,Gaming,15.6,FHD 1920x1080,Intel Core i5-13420H,4GB,512GB SSD,RTX 2050,Windows 11,2.29kg,110900
+454,Asus,VivoBook 16 F1607CA,Ultrabook,16,IPS Panel WUXGA 1920x1200,Intel Core Ultra 5 225H,16GB,512GB SSD,Intel Graphics,Windows 11,1.88kg,111800
+455,Lenovo,ThinkPad E14 Gen 7,Ultrabook,14,IPS Panel WUXGA 1920x1200,Intel Core Ultra 5 225U,8GB,512GB SSD,Intel Graphics,No OS,1.34kg,112000
+456,Asus,ExpertBook B3 B3405CCA,Ultrabook,14,WUXGA 1920x1200,Intel Core Ultra 5 125H,8GB,512GB SSD,Intel Graphics,Windows 11,1.49kg,112500
+457,HP,ProBook 440 G11,Ultrabook,14,IPS Panel FHD 1920x1200,Core Ultra 5-125U,8GB,512GB SSD,Intel UHD Graphics,No OS,1.39kg,113000
+458,Asus,ExpertBook B3 B3605CCA,Ultrabook,16,WUXGA 1920x1200,Intel Core Ultra 5 125H,8GB,512GB SSD,Intel Graphics,No OS,1.79kg,113000
+459,Dell,PRO 14 PC14250,Ultrabook,14,IPS Panel FHD 1920x1080,Intel Core Ultra 5 225U,8GB,512GB SSD,Intel Graphics,No OS,1.35kg,113500
+460,Asus,Vivobook 16 F1607CA,Ultrabook,16,LED WUXGA 1920x1200,Intel Core Ultra 5 225H,16GB,1TB SSD,Intel Graphics,Windows 11,1.88kg,115000
+461,Apple,MacBook Neo,Notebook,13,IPS Panel Retina 2408x1506,Apple A18 Pro chip,8GB,512GB SSD,5‑core GPU,macOS,1.23kg,115000
+462,Asus,VivoBook 14 F1407CA,Ultrabook,14,IPS Panel WUXGA 1920x1200,Intel Core Ultra 5 225H,16GB,512GB SSD,Intel Graphics,Windows 11,1.46kg,116000
+463,Asus,VivoBook 14 F1407CA,Ultrabook,14,IPS Panel WUXGA 1920x1200,Intel Core Ultra 5 225H,16GB,512GB SSD,Intel Graphics,Windows 11,1.46kg,116000
+464,Asus,Vivobook 14 M1407KA,Notebook,14,IPS Panel WUXGA 1920x1200,AMD Ryzen AI 5 330,16GB,512GB SSD,AMD Radeon Graphics,Windows 11,1.46kg,116000
+465,Asus,VivoBook 14 F1407CA,Ultrabook,14,IPS Panel FHD 1920x1080,Intel Core Ultra 5 225H,16GB,1TB SSD,Intel Arc Graphics is only available in models with Intel Core Ultra 9,Windows 11,1.46kg,118000
+466,HP,ProBook 460 G11,Ultrabook,16,IPS Panel WUXGA 1920x1200,Core Ultra 5-125H,8GB,512GB SSD,Intel Arc Graphics,No OS,1.74kg,117500
+467,Asus,Vivobook 15 A1504VA,Notebook,15.6,IPS Panel FHD 1920x1080,Intel Core 7 150U,16GB,512GB SSD,Intel Graphics,Windows 11,1.40kg,118000
+468,Asus,ExpertBook B3 B3405CCA,Ultrabook,14,WUXGA 1920x1200,Intel Core Ultra 7 255H,8GB,512GB SSD,Intel Graphics,No OS,1.52kg,118000
+469,Asus,Vivobook S14 M3407HA,Notebook,14,IPS Panel WUXGA 1920x1200,AMD Ryzen 5 220,16GB,1TB SSD,AMD Radeon Graphics,Windows 11,1.40kg,119000
+470,Asus,Vivobook 16 F1607CA,Ultrabook,16,LED WUXGA 1920x1200,Intel Core Ultra 5 225H,16GB,1TB SSD,Intel Graphics,Windows 11,1.88kg,119000
+471,HP,Victus Gaming 15-fa2275TX,Gaming,15.6,FHD 1920x1080,Intel Core i5-13420H,6GB,512GB SSD,NVIDIA GeForce RTX 3050,Windows 11,2.29kg,119900
+472,HP,Victus Gaming 15-fa2276TX,Gaming,15.6,FHD 1920x1080,Intel Core i5-13420H,6GB,512GB SSD,NVIDIA GeForce RTX 3050,Windows 11,2.29kg,119900
+473,Asus,Vivobook 15 A1504VA,Notebook,15.6,IPS Panel FHD 1920x1080,Intel Core 7 150U,16GB,512GB SSD,Intel Graphics,Windows 11,1.40kg,120500
+474,Asus,TUF Gaming F16 FX607VB,Gaming,16,WUXGA 1920x1200,Intel Core 5 210H,4GB,512GB SSD,RTX 3050A,Windows 11,2.20kg,120800
+475,Lenovo,IdeaPad Slim 5 14IRH10R,Notebook,14,IPS Panel WUXGA 1920x1200,Intel Core 7 240H,16GB,1TB SSD,Intel UHD Graphics,Windows 11,1.47kg,121500
+476,Lenovo,LOQ 15IAX9E,Gaming,15.6,FHD 1920x1080,Intel Core i5-12450HX,6GB,512GB SSD,NVIDIA GeForce RTX 3050,Windows 11,1.77kg,122000
+477,HP,OmniBook 5 Flip x360 14-fp0136TU,2 in 1 Convertible,14,IPS Panel Touchscreen 2K 1920x1200,Core i5 1334U,16GB,1TB SSD,Intel Graphics,Windows 11,1.62kg,122000
+478,HP,OmniBook 5 Flip x360 14-fp0133TU,2 in 1 Convertible,14,IPS Panel Touchscreen 2K 1920x1200,Core 5 120U,16GB,1TB SSD,Intel Graphics,Windows 11,1.62kg,122000
+479,Asus,ExpertBook B1 B1403CVA,Notebook,14,IPS Panel FHD 1920x1080,Intel Core 7 150U,16GB,512GB SSD,Intel UHD Graphics,Windows 11,1.40kg,122000
+480,Dell,Latitude 5450,Ultrabook,14,FHD 1920x1080,Intel Core Ultra 5 125U,8GB,512GB SSD,Intel graphics for Intel Core Ultra 5 125U processor,No OS,1.40kg,122500
+481,Acer,ALG AL15G-53,Gaming,15.6,FHD 1920x1080,Intel Core 5 210H,6GB,512GB SSD,NVIDIA GeForce RTX 3050,No OS,1.99kg,122500
+482,MSI,Cyborg 15 A13VE,Gaming,15.6,FHD 1920x1080,Intel Core i5-13420H,6GB,512GB SSD,NVIDIA GeForce RTX 4050,No OS,1.98kg,123900
+483,MSI,Cyborg 15 Black Edition A13UC,Gaming,15.6,FHD 1920x1080,Intel Core i5-13420H,16GB,512GB SSD,NVIDIA GeForce RTX 3050,No OS,1.98kg,125000
+484,Asus,VivoBook S14 S3407VA,Notebook,14,IPS Panel WUXGA 1920x1200,Intel Core 5 210H,16GB,512GB SSD,Intel Graphics,Windows 11,1.40kg,128000
+485,Asus,EXPERTBOOK P3 G1,Ultrabook,14,IPS Panel WUXGA 1920x1200,Intel Core Ultra 7 255H,16GB,512GB SSD,Intel Arc 140T,No OS,1.49kg,129000
+486,HP,Victus Gaming 15-fb3180AX,Gaming,15.6,FHD 1920x1080,AMD Ryzen 7 7445H,4GB,1TB SSD,NVIDIA GeForce RTX 3050,Windows 11,2.29kg,129500
+487,Dell,Latitude 5450,Ultrabook,14,IPS Panel FHD 1920x1080,Intel Core Ultra 5 125U,16GB,512GB SSD,Intel UHD Graphics,No OS,1.40kg,130000
+488,Lenovo,LOQ 15IAX9,Gaming,15.6,FHD 1920x1080,Intel Core i5-12450HX,6GB,512GB SSD,NVIDIA GeForce RTX 3050,Windows 11,2.38kg,131500
+489,Lenovo,IdeaPad Slim 5 14IRH10R,Notebook,14,IPS Panel WUXGA 1920x1200,Intel Core 5 210H,32GB,1TB SSD,Intel UHD Graphics,Windows 11,1.47kg,132000
+490,Asus,VivoBook S14 S3407CA,Ultrabook,14,IPS Panel WUXGA 1920x1200,Intel Core Ultra 5 225H,16GB,1TB SSD,Intel Graphics,Windows 11,1.40kg,133000
+491,Asus,VivoBook S14 S3407VA,Notebook,14,IPS Panel WUXGA 1920x1200,Intel Core 5 210H,16GB,1TB SSD,Intel Graphics,Windows 11,1.40kg,133000
+492,Asus,TUF Gaming A15 FA506NCG,Gaming,15.6,FHD 1920x1080,AMD Ryzen 7 7445HS,4GB,512GB SSD,NVIDIA GeForce RTX 3050,Windows 11,2.30kg,134000
+493,Asus,Vivobook S14 M3407HA,Notebook,14,IPS Panel WUXGA 1920x1200,AMD Ryzen 7 260,16GB,1TB SSD,AMD Radeon Graphics,Windows 11,1.40kg,134000
+494,HP,ProBook 440 G11,Ultrabook,14,IPS Panel FHD 1920x1200,Core Ultra 7-155U,8GB,512GB SSD,Intel UHD Graphics,No OS,1.39kg,135000
+495,Asus,TUF Gaming A15 FA506NCQ,Gaming,15.6,FHD 1920x1080,AMD Ryzen 7 170,4GB,512GB SSD,NVIDIA GeForce RTX 3050,Windows 11,2.20kg,135000
+496,Lenovo,ThinkPad L14 Gen 6,Ultrabook,14,IPS Panel WUXGA 1920x1200,Intel Core Ultra 5 225U,16GB,512GB SSD,Intel Graphics,No OS,1.38kg,135500
+497,Lenovo,IdeaPad 5 2-in-1 14IAL10,2 in 1 Convertible,14,IPS Panel Touchscreen WUXGA 1920x1200,Intel Core Ultra 5 225H,16GB,512GB SSD,Intel Arc 140T GPU,Windows 11,1.6kg,137000
+498,Lenovo,LOQ 15IAX9,Gaming,15.6,FHD 1920x1080,Intel Core i5-13450HX,6GB,512GB SSD,NVIDIA GeForce RTX 3050,Windows 11,2.38kg,137500
+499,HP,ProBook 460 G11,Ultrabook,16,IPS Panel WUXGA 1920x1200,Core Ultra 7-155H,8GB,512GB SSD,Intel Arc Graphics,No OS,1.74kg,137500
+500,Asus,Vivobook 16 M1607GA,Notebook,16,IPS Panel WUXGA 1920x1200,AMD Ryzen AI 7 445,16GB,512GB SSD,AMD Radeon Graphics,Windows 11,1.88kg,138000
+501,Asus,Vivobook 16 M1607GA,Notebook,16,IPS Panel WUXGA 1920x1200,AMD Ryzen AI 7 445,16GB,512GB SSD,AMD Radeon Graphics,Windows 11,1.88kg,138000
+502,Lenovo,IdeaPad Slim 5 14AKP10,Notebook,14,OLED WUXGA 1920x1200,AMD Ryzen AI 7 350,32GB,512GB SSD,AMD Radeon 820M Graphics,Windows 11,1.39kg,TBA
+503,Lenovo,LOQ 15IRX9,Gaming,15.6,FHD 1920x1080,Intel Core i5-13450HX,6GB,512GB SSD,NVIDIA GeForce RTX 3050,Windows 11,2.38kg,139500
+504,Asus,ExpertBook P5 P5405CSA,Ultrabook,14,WQXGA 2560x1600,Intel Core Ultra 5,16GB,1TB SSD,Intel Arc 130V GPU,No OS,1.23kg,142000
+505,Lenovo,Yoga Slim 7 14IMH9,2 in 1 Convertible,14,OLED WUXGA 1920x1200,Intel Core Ultra 5 125H,16GB,512GB SSD,Intel Arc Graphics,Windows 11,1.39kg,142500
+506,Lenovo,Yoga 7 2-in-1 14IML9,2 in 1 Convertible,14,OLED Touchscreen WUXGA 1920x1200,Intel Core Ultra 5 125H,16GB,512GB SSD,Intel Arc Graphics,Windows 11,1.49kg,143500
+507,HP,EliteBook 840 G11,Ultrabook,14,IPS Panel FHD 1920x1200,Core Ultra 5 125U,16GB,512GB SSD,Intel Graphics,No OS,1.41kg,145000
+508,Microsoft,"13"" Surface Laptop",Ultrabook,13,IPS Panel Touchscreen 1920x1280,Snapdragon X Plus,16GB,256GB SSD,Qualcomm Adreno GPU,Windows 11,1.22kg,145000
+509,Acer,Swift Go 14 SFG14-73,Ultrabook,14,OLED WQXGA 2880x1800,Intel Core Ultra 7 155H,16GB,1TB SSD,Intel Arc Graphics,Windows 11,1.32kg,146000
+510,Lenovo,LOQ 15IRX9,Gaming,15.6,FHD 1920x1080,Intel Core i7-13650HX,6GB,512GB SSD,NVIDIA GeForce RTX 3050,Windows 11,2.38kg,147000
+511,Gigabyte,Gaming A16 GA6H CMH,Gaming,16,FHD 1920x1080,Intel Core i7-13620H,16GB,512GB SSD,NVIDIA RTX 5050,Windows 11,2.2kg,150000
+512,Lenovo,IdeaPad 5 2-in-1 14IAL10,2 in 1 Convertible,14,IPS Panel Touchscreen WUXGA 1920x1200,Intel Core Ultra 7 255H,16GB,512GB SSD,Intel Arc 140T GPU,Windows 11,1.6kg,152000
+513,Walton,ACC KARONDA GX713H,Gaming,15.3,IPS Panel WQXGA 2560x1600,Intel Core i7-13620H,6GB,1TB SSD,RTX 4050,Windows 11,2.0kg,146500
+514,Asus,Vivobook S14 S3407CA,Ultrabook,14,IPS Panel WUXGA 1920x1200,Intel Core Ultra 7 255H,16GB,1TB SSD,Intel Arc Graphics is only available in models with Intel Core Ultra 9,Windows 11,1.40kg,153000
+515,Lenovo,Yoga 7 2-in-1 14AHP9,2 in 1 Convertible,14,Touchscreen WUXGA 1920x1200,AMD Ryzen 7 8840HS with NPU,16GB,1TB SSD,AMD Radeon 780M Graphics,Windows 11,1.61kg,155000
+516,Lenovo,IdeaPad 5 2-in-1 14AKP10,2 in 1 Convertible,14,OLED Touchscreen WUXGA 1920x1200,AMD Ryzen AI 7 350,24GB,512GB SSD,AMD Radeon 840M Graphics,Windows 11,1.5kg,155000
+517,Asus,V16 V3607VH,Gaming,16,WUXGA 1920x1200,Intel Core 5 210H,8GB,1TB SSD,NVIDIA GeForce RTX 5050,Windows 11,1.95kg,155000
+518,Asus,ZENBOOK 14 OLED UX3405CA,Ultrabook,14,OLED WUXGA 1920x1200,Intel Core Ultra 5 225H,16GB,512GB SSD,Intel Arc Graphics,Windows 11,1.28kg,158000
+519,Asus,ZENBOOK 14 OLED UX3405CA,Ultrabook,14,OLED Touchscreen WUXGA 1920x1200,Intel Core Ultra 5 225H,16GB,512GB SSD,Intel Arc Graphics,Windows 11,1.28kg,158000
+520,Lenovo,Yoga 7 2-in-1 14IML9,2 in 1 Convertible,14,OLED Touchscreen WUXGA 1920x1200,Intel Core Ultra 5 125H,16GB,1TB SSD,Intel Arc Graphics,Windows 11,1.49kg,160000
+521,Asus,Asus Vivobook S 16 OLED M5606KA,Notebook,16,OLED 2880x1800,AMD Ryzen AI 5 340,16GB,512GB SSD,AMD Radeon Graphics,Windows 11,1.50kg,160000
+522,Lenovo,LOQ 15IRX9,Gaming,15.6,FHD 1920x1080,Intel Core i7-13650HX,16GB,512GB SSD,NVIDIA GeForce RTX 4050,Windows 11,2.38kg,160000
+523,Lenovo,Yoga 7 2-in-1 14IML9,2 in 1 Convertible,14,OLED Touchscreen WQXGA 2880x1800,Intel Core Ultra 5 125H,16GB,512GB SSD,Intel Arc Graphics,Windows 11,1.49kg,160000
+524,Lenovo,Yoga Slim 7 14IMH9,2 in 1 Convertible,14,OLED WUXGA 1920x1200,Intel Core Ultra 5 125H,16GB,512GB SSD,Intel Arc Graphics,Windows 11,1.39kg,160000
+525,Walton,ACC WAXJAMBU GL714HX,Gaming,16,IPS Panel WQXGA 2560x1600,Intel Core i7-14650HX,8GB,1TB SSD,RTX 4060,Windows 11,2.4kg,156000
+526,Asus,Zenbook 14 OLED UM3406GA,Notebook,14,OLED WUXGA 1920x1200,AMD Ryzen AI 5 430,16GB,512GB SSD,AMD Radeon 840M Graphics,Windows 11,1.20kg,163000
+527,Asus,TUF Gaming A16 FA607NUG,Gaming,16,FHD 1920x1080,AMD Ryzen 7 7445HS,16GB,1TB SSD,NVIDIA GeForce RTX 4050,Windows 11,2.20kg,165000
+528,Microsoft,Surface Pro 12,Ultrabook,12,Touchscreen 2196x1464,Snapdragon X Plus,16GB,256GB SSD,Qualcomm Adreno GPU,Windows 11,0.68kg,165000
+529,Apple,MacBook Air 15 inch,Notebook,15,Touchscreen Retina 2880x1864,Apple M4 chip,16GB,256GB SSD,10-core GPU,macOS,1.51kg,168000
+530,Asus,TUF Gaming A16 FA607NUQ,Gaming,16,WUXGA 1920x1200,AMD Ryzen 7 170,16GB,512GB SSD,NVIDIA GeForce RTX 4050,Windows 11,2.20kg,169000
+531,Microsoft,Surface Pro 10,Ultrabook,13,Touchscreen 2880x1920,Intel Core Ultra 5 135U,16GB,256GB SSD,Intel Graphics,Windows 11,0.86kg,160000
+532,Apple,MacBook Air 13 inch,Notebook,13,Touchscreen Retina 2560x1664,Apple M4 chip,16GB,512GB SSD,10-core GPU,macOS,1.24kg,165000
+533,Apple,MacBook Air 13 inch,Notebook,13,Retina 2560x1664,Apple M5 chip,16GB,512GB SSD,8‑core GPU,macOS,1.23kg,165000
+534,MSI,Cyborg 15 B13WEKG,Gaming,15.6,FHD 1920x1080,Intel Core i7-13620H,8GB,512GB SSD,NVIDIA GeForce RTX 5050,No OS,2.1kg,170000
+535,Tecno,MEGABOOK S14,Ultrabook,14,OLED 2800x1600,"Core Ultra 9 185H, up to 5.10GHz",32GB,2TB SSD,Intel Arc Graphics,No OS,0.9kg,170000
+536,Lenovo,LOQ 15IRX10,Gaming,15.6,FHD 1920x1080,Intel Core i7-13650HX,8GB,512GB SSD,NVIDIA GeForce RTX 5050,No OS,2.4kg,170500
+537,Lenovo,Yoga 7 2-in-1 14AKP10,2 in 1 Convertible,14,OLED Touchscreen WUXGA 1920x1200,AMD Ryzen AI 7 350,32GB,1TB SSD,AMD Radeon 840M Graphics,Windows 11,1.38kg,175000
+538,Lenovo,Yoga 7 2-in-1 14AKP10,2 in 1 Convertible,14,OLED Touchscreen WUXGA 1920x1200,AMD Ryzen AI 7 350,32GB,1TB SSD,AMD Radeon 840M Graphics,Windows 11,1.38kg,175000
+539,MSI,Cyborg A15 AI B2HWFKG,Gaming,15.6,IPS Panel FHD 1920x1080,AMD RYZEN 7 260,8GB,512GB SSD,NVIDIA GeForce RTX 5060,No OS,2.1kg,175000
+540,Asus,TUF Gaming F16 FX608JH,Gaming,16,WUXGA 1920x1200,Intel Core i5-13450HX,8GB,512GB SSD,NVIDIA GeForce RTX 5050,Windows 11,2.20kg,178000
+541,Gigabyte,AORUS MASTER 16 BYH,Gaming,16,FHD 1920x1080,AMD Ryzen AI 7 350,8GB,1TB SSD,RTX 5060,Windows 11,1.9kg,179000
+542,Asus,Zenbook A14 UX3407RA,Notebook,14,OLED WUXGA 1920x1200,Snapdragon X Elite X1E 78 100,16GB,1TB SSD,Qualcomm Adreno GPU,Windows 11,0.98kg,182000
+543,Microsoft,Surface Pro 12,Ultrabook,12,Touchscreen 2196x1464,Snapdragon X Plus,16GB,512GB SSD,Qualcomm Adreno GPU,Windows 11,0.68kg,185000
+544,MSI,Katana 15 HX B14WEK,Gaming,15.6,QHD 2560x1440,Intel Core i7-14650HX,8GB,512GB SSD,NVIDIA GeForce RTX 5050,No OS,2.4kg,185000
+545,Lenovo,Yoga Slim 7 14Q8X9,2 in 1 Convertible,14.5,2944x1840,Snapdragon X Elite X1E-78-100,16GB,512GB SSD,Qualcomm Adreno GPU,Windows 11,1.28kg,187000
+546,Asus,TUF Gaming A14 FA401UH,Gaming,14,WQXGA 2560x1600,AMD Ryzen 7 260,16GB,512GB SSD,NVIDIA GeForce RTX 5050,Windows 11,1.46kg,192000
+547,Asus,Zenbook 14 OLED UX3405CA,Ultrabook,14,OLED Touchscreen WUXGA 1920x1200,Intel Core Ultra 7 255H,16GB,512GB SSD,Intel Arc Graphics,Windows 11,1.28kg,193000
+548,Lenovo,Yoga Slim 7 14ILL10,2 in 1 Convertible,14,OLED WUXGA 1920x1200,Intel Core Ultra 7 258V,32GB,512GB SSD,Intel Arc Graphics 130V,Windows 11,1.19kg,174000
+549,Lenovo,Yoga Slim 7 14ILL10,2 in 1 Convertible,14,OLED WUXGA 1920x1200,Intel Core Ultra 7 258V,32GB,512GB SSD,Intel Arc Graphics 140V,Windows 11,1.19kg,195000
+550,Dell,PRO 14 PC14250,Ultrabook,14,IPS Panel FHD 1920x1080,Intel Core Ultra 7 225U,16GB,512GB SSD,Intel Graphics,No OS,1.35kg,195000
+551,Asus,V16 V3607VH,Gaming,16,WUXGA 1920x1200,Intel Core 7 240H,8GB,512GB SSD,NVIDIA GeForce RTX 5050,Windows 11,1.95kg,195000
+552,Lenovo,Yoga Slim 7 14IMH9,2 in 1 Convertible,14,OLED WUXGA 1920x1200,Intel Core Ultra 9 185H,32GB,1TB SSD,Intel Arc Graphics,Windows 11,1.39kg,196000
+553,Lenovo,Legion 5 15IRX10,Gaming,15.1,WQXGA 2560x1600,Intel Core i7-14700HX,8GB,512GB SSD,NVIDIA GeForce RTX 5050,Windows 11,1.9kg,200000
+554,Asus,TUF Gaming A16 FA608UM,Gaming,16,WUXGA 1920x1200,AMD Ryzen 7 260,8GB,512GB SSD,NVIDIA GeForce RTX 5060,Windows 11,2.20kg,200000
+555,Apple,MacBook Air 13 inch,Notebook,13,Touchscreen Retina 2560x1664,Apple M5 chip,16GB,1TB SSD,10‑core GPU,macOS,1.23kg,205000
+556,Asus,TUF Gaming A16 FA608UH,Gaming,16,FHD 1920x1080,AMD Ryzen 7 260,16GB,512GB SSD,NVIDIA GeForce RTX 5050,Windows 11,2.20kg,215000
+557,Apple,MacBook Air 15 inch,Notebook,15,Retina 2880x1864,Apple M5 chip,16GB,1TB SSD,10‑core GPU,macOS,1.51kg,215000
+558,MSI,Katana 15 HX B14WEK,Gaming,15.6,QHD 2560x1440,Intel Core i9-14900HX,8GB,512GB SSD,NVIDIA GeForce RTX 5050,No OS,2.4kg,220000
+559,Asus,Zenbook S 14 OLED UX5406SA,Ultrabook,14,OLED 2880x1800,Intel Core Ultra 7 256V,16GB,1TB SSD,Intel Arc Graphics,Windows 11,1.20kg,228000
+560,HP,OmniBook Ultra Flip x360 14-fh0103TU,2 in 1 Convertible,14,OLED Touchscreen 2880x1800,Core Ultra 7 256V,16GB,1TB SSD,Intel Graphics,Windows 11,1.3kg,229000
+561,HP,OmniBook Ultra Flip x360 14-fh0104TU,2 in 1 Convertible,14,OLED Touchscreen 2880x1800,Core Ultra 7 256V,16GB,1TB SSD,Intel Graphics,Windows 11,1.3kg,229000
+562,Lenovo,Legion Pro 5 16ADR10,Gaming,16,OLED WQXGA 2560x1600,AMD Ryzen 7 8745HX,8GB,1TB SSD,RTX 5060,Windows 11,2.3kg,235000
+563,Asus,TUF Gaming F16 FX608JHI,Gaming,16,FHD 1920x1080,Intel Core i7 14650HX,8GB,1TB SSD,NVIDIA GeForce RTX 5050,Windows 11,2.20kg,235000
+564,Lenovo,Legion Pro 5 16ADR10,Gaming,16,OLED,AMD Ryzen 7 8745HX,8GB,1TB SSD,RTX 5060,Windows 11,2.3kg,240000
+565,Apple,MacBook Pro M5,Notebook,14,Touchscreen Retina 3024x1964,Apple M5 chip,16GB,1TB SSD,10-core GPU,macOS,1.55kg,245000
+566,Lenovo,Legion 5 15IRX10,Gaming,15.1,WQXGA 2560x1600,Intel Core i7-14700HX,8GB,512GB SSD,NVIDIA GeForce RTX 5070,Windows 11,1.9kg,248500
+567,Asus,ROG Strix G16 G614PH,Gaming,16,2560x1600,AMD Ryzen 9 8940HX,16GB,512GB SSD,NVIDIA GeForce RTX 5050,Windows 11,2.50kg,250000
+568,Asus,TUF Gaming F16 FX608JMR,Gaming,16,FHD 1920x1080,Core i7-14650HX,16GB,1TB SSD,NVIDIA GeForce RTX 5060,Windows 11,2.20kg,260000
+569,Asus,TUF Gaming F16 FX608JMI,Gaming,16,WUXGA 1920x1200,Intel Core i7 14650HX,8GB,1TB SSD,NVIDIA GeForce RTX 5060,Windows 11,2.20kg,260000
+570,Asus,Zenbook S 16 OLED UM5606GA,Notebook,16,OLED 2880x1800,AMD Ryzen AI 7 350,32GB,1TB SSD,AMD Radeon Graphics,Windows 11,1.50kg,264000
+571,Lenovo,Legion 5 15AKP10,Gaming,15.1,OLED WQXGA 2560x1600,AMD Ryzen AI 7 350,8GB,512GB SSD,RTX 5070,Windows 11,2kg,270000
+572,Lenovo,Legion 5 15IAX10,Gaming,15.1,OLED,Intel Core Ultra 7 255HX,8GB,512GB SSD,NVIDIA GeForce RTX 5060,Windows 11,1.9kg,274000
+573,Lenovo,Yoga Slim 9 14ILL10,2 in 1 Convertible,14,OLED Touchscreen 4K 3840x2400,Intel Core Ultra 7 258V,32GB,1TB SSD,Intel Arc Graphics 140V,Windows 11,1.23kg,280000
+574,Acer,Predator Helios Neo 16S AI PHN16S-71,Gaming,16,2560x1600,Intel Core Ultra 7 255HX,8GB,1TB SSD,NVIDIA GeForce RTX 5050,Windows 11,2.3kg,285000
+575,Lenovo,Yoga Book 9 13IMU9,2 in 1 Convertible,13.3,OLED Touchscreen 2880x1800,Intel Core Ultra 7 155U,16GB,1TB SSD,Intel Arc Graphics,Windows 11,1.34kg,287000
+576,Asus,TUF Gaming F16 FX608JPR,Gaming,16,WUXGA 1920x1200,Core i7-14650HX,16GB,1TB SSD,NVIDIA GeForce RTX 5070,Windows 11,2.20kg,290000
+577,Acer,Predator Helios Neo 16S AI PHN16S-71-73WM,Gaming,16,2560x1600,Intel Core Ultra 7 255HX,8GB,1TB SSD,NVIDIA GeForce RTX 5060,Windows 11,2.30kg,279900
+578,Lenovo,Yoga Pro 7 14IAH10,2 in 1 Convertible,14.5,OLED Touchscreen 3000x1876,Intel Core Ultra 9 285H,32GB,1TB SSD,Intel Arc 140T GPU,Windows 11,1.54kg,298000
+579,Lenovo,Yoga Book 9 14IAH10,2 in 1 Convertible,14,OLED Touchscreen WQXGA 2880x1800,Intel Core Ultra 9 285H,32GB,1TB SSD,Intel Arc Graphics,Windows 11,1.219kg,299000
+580,Asus,ROG Strix G16 G614PP,Gaming,16,2560x1600,AMD Ryzen 9 8940HX,16GB,1TB SSD,NVIDIA GeForce RTX 5070,Windows 11,2.50kg,310000
+581,Asus,ROG Strix G16 G615LM,Gaming,16,WUXGA 1920x1200,Intel Core Ultra 9 275HX,8GB,1TB SSD,NVIDIA GeForce RTX 5060,Windows 11,2.65kg,312000
+582,Lenovo,Yoga Slim 7i Ultra 14IPH11,2 in 1 Convertible,14,Touchscreen WQXGA 2880x1800,Intel Core Ultra 7 355,32GB,1TB SSD,Intel Graphics,Windows 11,0.98kg,315000
+583,Lenovo,Legion 5 15IRX10,Gaming,15.1,WQXGA 2560x1600,Intel Core i9-14900HX,32GB,1TB SSD,NVIDIA GeForce RTX 5070,Windows 11,1.9kg,316500
+584,Asus,TUF Gaming F16 FX608JPR,Gaming,16,WUXGA 1920x1200,Core i7-14650HX,32GB,1TB SSD,NVIDIA GeForce RTX 5070,Windows 11,2.20kg,318000
+585,Lenovo,Legion Pro 5 16IAX10,Gaming,16,OLED WQXGA 2560x1600,Intel Core Ultra 9 275HX,8GB,1TB SSD,NVIDIA GeForce RTX 5060,Windows 11,2.43kg,320000
+586,Acer,Predator Helios Neo 16S AI PHN16S-71,Gaming,16,OLED,Intel Core Ultra 7 255HX,8GB,1TB SSD,NVIDIA RTX 5070,Windows 11,2.3kg,325000
+587,MSI,Stealth 16 AI A2HWFG,Gaming,16,OLED QHD 2560x1440,Intel Core Ultra 9 285H,8GB,1TB SSD,NVIDIA GeForce RTX 5060,Windows 11,2.1kg,333000
+588,HP,OMEN 16-am0333TX,Gaming,16,FHD 1920x1080,Intel Core i9-14900HX,8GB,1TB SSD,NVIDIA GeForce RTX 5070,Windows 11,2.39kg,336000
+589,Asus,ROG Strix G16 G614PP,Gaming,16,2560x1600,AMD Ryzen 9 8940HX,32GB,1TB SSD,NVIDIA GeForce RTX 5070,Windows 11,2.50kg,337000
+590,Acer,Predator Helios Neo 16S AI PHN16S-71,Gaming,16,OLED,Intel Core Ultra 9 275HX,8GB,1TB SSD,NVIDIA RTX 5070,Windows 11,2.3kg,340000
+591,THUNDEROBOT,R16,Gaming,16,QHD 2560x1600,Intel Core i9-13900HX,16GB,1TB SSD,RTX 5080 Graphics,Windows 11,2.6kg,349000
+592,THUNDEROBOT,R16,Gaming,16,QHD 2560x1600,Intel Core i9-13900HX,16GB,1TB SSD,RTX 5070 Graphics,Windows 11,2.6kg,349000
+593,Lenovo,ThinkPad X1 Carbon G12,Ultrabook,14,IPS Panel WUXGA 1920x1200,Intel Core Ultra 7 155H,32GB,1TB SSD,Intel Arc Graphics,Windows 11,1.09kg,350000
+594,Apple,MacBook Pro M5 Pro,Notebook,14,Touchscreen Retina 3024x1964,Apple M5 Pro chip,24GB,1TB SSD,16-core GPU,macOS,1.60kg,355000
+595,MSI,Prestige 13 AI+ Ukiyoe Edition A2VMG,Ultrabook,13.3,OLED 2880x1800,Intel Core Ultra 9 288V With Max. 48 NPU TOPS,32GB,2TB SSD,Intel Arc 140V GPU,Windows 11,0.99kg,310000
+596,Acer,Predator Helios Neo 16S AI PHN16S-71,Gaming,16,OLED,Intel Core Ultra 9 275HX,8GB,1TB SSD,NVIDIA RTX 5070,Windows 11,2.3kg,360000
+597,MSI,Stealth 16 AI A2HWGG,Gaming,16,OLED QHD 2560x1440,Intel Core Ultra 9 285H,8GB,1TB SSD,NVIDIA GeForce RTX 5070,Windows 11,2.1kg,360000
+598,Asus,ExpertBook B9 Ultra B9406CAA,Ultrabook,14,OLED Touchscreen WQXGA 2880x1800,Intel Core Ultra X7 358H,32GB,1TB SSD,Intel Arc B390 GPU,Windows 11,1.10kg,370000
+599,Asus,ExpertBook B9 Ultra B9406CAA,Ultrabook,14,OLED Touchscreen WQXGA 2880x1800,Intel Core Ultra X7 358H,32GB,1TB SSD,Intel Arc B390 GPU,Windows 11,1.10kg,370000
+600,Asus,ROG Strix G16 G615LP,Gaming,16,WQXGA 2560x1600,Intel Core Ultra 9 275HX,32GB,1TB SSD,NVIDIA GeForce RTX 5070,Windows 11,2.65kg,383000
+601,Lenovo,ThinkPad X1 2-in-1 Gen 10 Aura Edition,2 in 1 Convertible,14,IPS Panel Touchscreen WUXGA 1920x1200,Intel Core Ultra 7 265U,32GB,1TB SSD,Intel Graphics,Windows 11,1.22kg,410000
+602,Apple,MacBook Pro M5 Pro,Notebook,16,Touchscreen Retina 3024x1964,Apple M5 Pro chip,24GB,1TB SSD,16-core GPU,macOS,2.14kg,425000
+603,Asus,ROG Zephyrus G14 GA403WP,Gaming,14,OLED 2880x1800,AMD Ryzen AI 9 HX 370,8GB,2TB SSD,NVIDIA GeForce RTX 5070,Windows 11,1.50kg,435000
+604,Asus,Zenbook Duo UX8407AA,Ultrabook,14,OLED Touchscreen 2880x1800,Intel Core Ultra X7 358H,32GB,1TB SSD,Intel Arc Graphics,Windows 11,1.65kg,476000
+605,Asus,ROG Zephyrus G16 GU605CR,Gaming,16,OLED WQXGA 2560x1600,Intel Core Ultra 9 285H,32GB,1TB SSD,NVIDIA RTX 5070,Windows 11,1.95kg,490000
+606,Asus,ROG Strix SCAR 16 G635LW,Gaming,16,WQXGA 2560x1600,Intel Core Ultra 9 275HX,16GB,2TB SSD,NVIDIA GeForce RTX 5080,Windows 11,2.80kg,520000
+607,MSI,Stealth A16 AI+ A3XWJG,Gaming,16,OLED QHD 2560x1440,AMD Ryzen AI 9 HX 370,24GB,2TB SSD,NVIDIA GeForce RTX 5090,No OS,2.1kg,620000
+608,MSI,Raider 18 HX AI A2XWJG,Gaming,18,UHD 3840x2160,Intel Core Ultra 9 285HX,24GB,2TB SSD,NVIDIA GeForce RTX 5090,Windows 11,3.6kg,630000
+609,Asus,ROG Strix SCAR 18 (2025) G835LX,Gaming,18,OLED WQXGA 2560x1600,Intel Core Ultra 9 275HX,24GB,1TB SSD,RTX 5090,Windows 11,3.48kg,649900
+610,Apple,MacBook Pro M5 Max,Notebook,16,Touchscreen Retina 3024x1964,Apple M5 Pro chip,36GB,2TB SSD,32-core GPU,macOS,2.15kg,655000
+611,Acer,Predator Helios Neo 16 AI-PH16-73,Gaming,16,OLED,Intel Core Ultra 9 275HX,24GB,2TB SSD,NVIDIA RTX 5090,Windows 11,2.3kg,660000
+612,Apple,MacBook Pro M5 Max,Notebook,16,Touchscreen Retina 3024x1964,Apple M5 Pro chip,48GB,2TB SSD,40-core GPU,macOS,2.15kg,730000
+613,Asus,ROG Zephyrus Duo 16 GX651AX,Gaming,16,OLED Touchscreen 2880x1800,Intel Core Ultra 9 386H up to 50TOPS,24GB,2TB SSD,RTX 5090,Windows 11,2.82kg,810000
+614,MSI,Modern 14 C7M,Notebook,14,FHD 1920x1080,AMD Ryzen 7 7730U,16GB,512GB SSD,AMD Radeon Graphics,No OS,1.4kg,TBA
+615,Acer,Aspire Lite AL15-52,Notebook,15.6,FHD 1920x1080,Intel Core i3-1215U,8GB,512GB SSD,Intel UHD Graphics,No OS,1.59kg,TBA
+616,Microsoft,Surface Laptop 7th Edition,Ultrabook,13.8,Touchscreen 2304x1536,Intel Core Ultra 5,16GB,256GB SSD,Intel Arc Graphics,Windows 11,1.35kg,TBA
+617,Microsoft,Surface Laptop 7th Edition,Ultrabook,13.8,Touchscreen,Snapdragon X Plus,16GB,512GB SSD,Qualcomm Adreno GPU,Windows 11,1.34kg,TBA
+618,Apple,MacBook Pro M5 Pro,Notebook,14,Touchscreen Retina 3024x1964,Apple M5 Pro chip,24GB,2TB SSD,16-core GPU,macOS,1.60kg,TBA
+619,Acer,Aspire Lite AL15-41,Notebook,15.6,LED FHD 1920x1080,Ryzen 5 5625U,16GB,512GB SSD,AMD Radeon Graphics,No OS,1.79kg,TBA
+620,Chuwi,Freebook,Notebook,13.5,IPS Panel Touchscreen 2K 2256x1504,Intel Celeron N150,12GB,512GB SSD,Intel UHD Graphics,Windows 11,1.36kg,TBA
+621,Lenovo,ThinkPad E14 Gen 5,Ultrabook,14,IPS Panel Touchscreen WUXGA 1920x1200,Intel Core i5-1335U,8GB,512GB SSD,Intel XE IRIS Graphics,No OS,1.41kg,TBA
