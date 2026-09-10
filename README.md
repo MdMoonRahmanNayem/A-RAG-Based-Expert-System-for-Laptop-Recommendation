@@ -1,4 +1,3 @@
-````markdown
 # A RAG-Based Expert System for Laptop Recommendation
 
 ## Overview
